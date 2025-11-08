@@ -1,0 +1,20 @@
+import { Accordion } from "components/shared/atoms";
+
+export interface IAccordionContent {
+  title: string;
+  content: string;
+}
+
+export interface IPanelProps {
+  h3: string;
+  list: IAccordionContent[];
+}
+
+export default function Panel({ data }: { data: IPanelProps }) {
+  return (
+    <div className="flex flex-col gap-4">
+      <h3 className="m-0 text-center">{data.h3}</h3>
+      <Accordion items={data.list} />
+    </div>
+  );
+}
