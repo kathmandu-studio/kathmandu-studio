@@ -24,8 +24,10 @@ export default function Accordion({ items }: IAccordionProps) {
       {items.map((item, index) => (
         <div key={index} className="overflow-hidden border-b-2">
           <button className="w-full" onClick={() => toggle(index)}>
-            <div className="flex justify-between items-center py-6">
-              <p className="m-0 font-semibold text-xl">{item.title}</p>
+            <div className="flex justify-between items-center py-3 md:py-5">
+              <p className="m-0 text-start font-normal leading-6 text-lg">
+                {item.title}
+              </p>
               <span className="ml-2">
                 {openIndex === index ? <FaChevronUp /> : <FaChevronDown />}
               </span>

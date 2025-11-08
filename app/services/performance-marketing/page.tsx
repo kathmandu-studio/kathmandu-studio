@@ -12,7 +12,7 @@ export default function PerformanceMarketing() {
     data.performanceMarketing;
 
   return (
-    <div className="flex flex-col gap-12 md:gap-24 py-6 sm:py-12">
+    <div className="flex flex-col gap-12 md:gap-24 py-8 sm:py-12">
       <Banner src={banner.src} alt={banner.alt} />
       <Hero data={hero} />
       <Approach data={approach} />

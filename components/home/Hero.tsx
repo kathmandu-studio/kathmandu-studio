@@ -20,7 +20,7 @@ export default function Hero() {
             <Link
               key={service.id}
               href={service.href}
-              className="text-xl border-b-2 py-4 group"
+              className="text-lg sm:text-xl border-b-2 py-3 sm:py-4 group"
             >
               <div className="flex justify-between items-center">
                 <span className="transform transition-transform duration-500 group-hover:translate-x-8">
