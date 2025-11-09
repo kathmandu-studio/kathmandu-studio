@@ -6,6 +6,8 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { StartProjectButton } from "components/shared/atoms";
 import { useRouter } from "next/navigation";
+import { FaBars } from "react-icons/fa";
+import { FaXmark } from "react-icons/fa6";
 
 const links = [
   { name: "Home", href: "/" },
@@ -50,8 +52,6 @@ export default function Navbar() {
           onClick={() => router.push("/")}
         />
       </div>
-
-      {/* <h3 className="m-0 font-bold text-2xl">LOGO</h3> */}
 
       {/* Desktop Menu */}
       <nav className="hidden md:flex gap-8 items-start">
@@ -108,21 +108,7 @@ export default function Navbar() {
         onClick={toggleMenu}
         aria-label="Toggle Menu"
       >
-        <span
-          className={`h-[3px] w-6 bg-primary transition-all ${
-            isToggleBarOpen ? "rotate-45 translate-y-[8px]" : ""
-          }`}
-        />
-        <span
-          className={`h-[3px] w-6 bg-primary transition-all ${
-            isToggleBarOpen ? "opacity-0" : ""
-          }`}
-        />
-        <span
-          className={`h-[3px] w-6 bg-primary transition-all ${
-            isToggleBarOpen ? "-rotate-45 -translate-y-[8px]" : ""
-          }`}
-        />
+        <FaBars size={24} />
       </button>
 
       {/* Mobile Full-Screen Menu */}
@@ -137,7 +123,7 @@ export default function Navbar() {
           className="absolute top-6 right-6 text-3xl font-bold"
           aria-label="Close Menu"
         >
-          ×
+          <FaXmark size={24} />
         </button>
 
         {/* Mobile Links */}

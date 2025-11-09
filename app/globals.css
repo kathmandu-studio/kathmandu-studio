@@ -87,7 +87,7 @@
 /* components */
 @layer components {
   .btn { @apply px-4 py-2 rounded-lg font-semibold transition-all; }
-  .btn-primary { @apply bg-primary text-secondary hover:bg-blue-700; }
+  .btn-primary {  @apply bg-primary text-secondary hover:opacity-70; }
   .btn-secondary { @apply bg-gray-200 text-gray-800 hover:bg-gray-300; }
-  .card { @apply bg-white shadow-md rounded-lg p-4; }
+  .card { @apply bg-secondary shadow-md rounded-lg p-4; }
 }

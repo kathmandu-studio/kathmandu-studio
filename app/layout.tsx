@@ -1,6 +1,6 @@
 import "./globals.css";
 import { Inter, Outfit } from "next/font/google";
-import { Footer, Navbar } from "components/shared/molecules";
+import LayoutWrapper from "components/shared/LayoutWrapper";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -25,13 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body className="antialiased min-h-screen flex flex-col justify-between">
-        <div className="sticky top-0 z-50 bg-secondary">
-          <Navbar />
-        </div>
-        <main className="w-full xl:w-container px-4 xl:px-0 mx-auto min-h-[80vh]">
-          {children}
-        </main>
-        <Footer />
+        <LayoutWrapper>{children}</LayoutWrapper>
       </body>
     </html>
   );
