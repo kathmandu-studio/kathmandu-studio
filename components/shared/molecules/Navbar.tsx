@@ -44,10 +44,10 @@ export default function Navbar() {
     <header className="flex justify-between items-center px-4 xl:px-8 py-4 shadow-sm bg-secondary relative">
       <div className="block">
         <Image
-          src="/assets/images/png/company-logo-test.png"
+          src="/assets/images/png/kathmandu-studio-logo-small.png"
           alt="Company Logo"
           className="cursor-pointer"
-          width={94}
+          width={200}
           height={20}
           onClick={() => router.push("/")}
         />
@@ -69,7 +69,7 @@ export default function Navbar() {
               <Link
                 href={link.href || "/"}
                 className={`text-xl ${
-                  isActive(link.href) ? "font-bold" : "font-normal"
+                  isActive(link.href) ? "font-semibold" : "font-normal"
                 }`}
               >
                 {link.name}
