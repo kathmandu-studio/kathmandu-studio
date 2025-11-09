@@ -64,12 +64,12 @@ export default function Footer() {
         </div>
 
         {/* Right: Contact */}
-        <div className="flex flex-col justify-center gap-2 lg:w-1/2">
-          <p className="text-[48px]">
+        <div className="flex flex-col justify-between gap-2 lg:w-1/2">
+          <h2 className=" text-[48px]">
             Have an idea in mind? <br /> Let&apos;s talk.
-          </p>
+          </h2>
           <div className="border-b-4 border-gray-600 w-full"></div>
-          <div className="flex flex-col gap-2 text-gray-400 pt-10">
+          <div className="flex flex-col gap-2 text-gray-400 mt-4">
             {socialLinks.map((link) => (
               <a
                 key={link.id}
