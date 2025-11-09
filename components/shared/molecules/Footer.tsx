@@ -35,8 +35,8 @@ export default function Footer() {
 
   return (
     <footer className="bg-primary text-secondary px-4 py-8 xl:p-12 w-full">
-      <div className="flex flex-col lg:flex-row justify-between gap-8 md:gap-16">
-        <div className="flex flex-col gap-12">
+      <div className="flex flex-col lg:flex-row justify-between gap-12 md:gap-16">
+        <div className="flex flex-col gap-12 w-full lg:w-1/2">
           {/* Left: Logo */}
           <div>
             <Image
@@ -54,7 +54,7 @@ export default function Footer() {
                 <span className="text-xl">{link.title}</span>
                 <a
                   href={`mailto:${link.address}`}
-                  className="hover:text-secondary transition"
+                  className="hover:text-secondary transition underline"
                 >
                   {link.address}
                 </a>
@@ -64,7 +64,7 @@ export default function Footer() {
         </div>
 
         {/* Right: Contact */}
-        <div className="flex flex-col justify-center gap-2">
+        <div className="flex flex-col justify-center gap-2 lg:w-1/2">
           <p className="text-[48px]">
             Have an idea in mind? <br /> Let&apos;s talk.
           </p>
