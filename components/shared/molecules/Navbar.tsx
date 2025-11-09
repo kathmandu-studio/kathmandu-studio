@@ -60,7 +60,7 @@ export default function Navbar() {
             {link.dropdown ? (
               <span
                 className={`text-xl cursor-pointer ${
-                  isActive(link.href) ? "font-bold" : "font-normal"
+                  isActive(link.href) ? "font-semibold" : "font-normal"
                 }`}
               >
                 {link.name}
@@ -120,7 +120,7 @@ export default function Navbar() {
         {/* Close Button */}
         <button
           onClick={toggleMenu}
-          className="absolute top-6 right-6 text-3xl font-bold"
+          className="absolute top-6 right-6 text-3xl font-semibold"
           aria-label="Close Menu"
         >
           <FaXmark size={24} />
@@ -133,7 +133,7 @@ export default function Navbar() {
               <>
                 <span
                   className={`${
-                    isActive(link.href) ? "font-bold" : "font-normal"
+                    isActive(link.href) ? "font-semibold" : "font-normal"
                   }`}
                 >
                   {link.name}
@@ -147,7 +147,7 @@ export default function Navbar() {
                         href={`${link.href}/${slug}`}
                         className={`${
                           isActive(`${link.href}/${slug}`)
-                            ? "font-bold"
+                            ? "font-semibold"
                             : "font-normal"
                         }`}
                         onClick={() => setIsToggleBarOpen(false)}
@@ -163,7 +163,7 @@ export default function Navbar() {
                 href={link.href || "/"}
                 onClick={() => setIsToggleBarOpen(false)}
                 className={`${
-                  isActive(link.href) ? "font-bold" : "font-normal"
+                  isActive(link.href) ? "font-semibold" : "font-normal"
                 }`}
               >
                 {link.name}
