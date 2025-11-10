@@ -91,3 +91,8 @@
   .btn-secondary { @apply bg-gray-200 text-gray-800 hover:bg-gray-300; }
   .card { @apply bg-secondary shadow-md rounded-lg p-4; }
 }
+
+/* Elfsight container */
+.elfsight-app-35d1073f-b9a7-4eda-ae8d-2560d7592904 {
+  overflow: hidden;
+}
