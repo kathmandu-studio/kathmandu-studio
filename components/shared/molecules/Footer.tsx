@@ -54,7 +54,7 @@ export default function Footer() {
                 <span className="text-xl">{link.title}</span>
                 <a
                   href={`mailto:${link.address}`}
-                  className="hover:text-secondary transition underline"
+                  className="hover:text-secondary transition underline w-max"
                 >
                   {link.address}
                 </a>
@@ -76,7 +76,7 @@ export default function Footer() {
                 target="_blank"
                 href={link.address}
                 rel="noopener noreferrer"
-                className="hover:text-secondary transition"
+                className="hover:text-secondary transition w-max"
               >
                 {link.handle}
               </a>
