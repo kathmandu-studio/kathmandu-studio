@@ -35,7 +35,7 @@ export default function Footer() {
 
   return (
     <footer className="bg-primary text-secondary px-4 py-8 xl:p-12 w-full">
-      <div className="flex flex-col lg:flex-row justify-between gap-12 md:gap-16">
+      <div className="flex flex-col lg:flex-row justify-between gap-12 lg:gap-32 xl:gap-52">
         <div className="flex flex-col gap-12 w-full lg:w-1/2">
           {/* Left: Logo */}
           <div>

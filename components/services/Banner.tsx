@@ -7,7 +7,7 @@ interface IBannerProps {
 
 export default function Banner({ src, alt = "Banner" }: IBannerProps) {
   return (
-    <div className="relative w-full h-[240px] lg:h-[430px]">
+    <div className="relative w-full h-[300px] lg:h-[430px]">
       <Image src={src} alt={alt} fill style={{ objectFit: "cover" }} />
     </div>
   );
