@@ -4,10 +4,10 @@ import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { StartProjectButton } from "components/shared/atoms";
 import { useRouter } from "next/navigation";
 import { FaBars } from "react-icons/fa";
 import { FaXmark } from "react-icons/fa6";
+import { StartProjectButton } from "components/shared/atoms/button";
 
 const links = [
   { name: "Home", href: "/" },

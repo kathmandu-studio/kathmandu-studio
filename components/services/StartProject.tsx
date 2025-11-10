@@ -1,5 +1,7 @@
-import { StartProjectButton } from "components/shared/atoms";
-import { IStartProjectButtonProps } from "components/shared/atoms/StartProjectButton";
+import {
+  IStartProjectButtonProps,
+  StartProjectButton,
+} from "components/shared/atoms/button";
 
 interface IStartProjectProps extends IStartProjectButtonProps {
   h3: string;
