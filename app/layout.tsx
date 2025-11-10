@@ -27,19 +27,12 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body className="antialiased min-h-screen flex flex-col justify-between">
         <LayoutWrapper>{children}</LayoutWrapper>
-        <Script id="tawk-to" strategy="afterInteractive">
-          {`
-            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-            (function(){
-              var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-              s1.async=true;
-              s1.src='https://embed.tawk.to/6911ab88ee2732195b2fc4cc/1j9mgc3ka';
-              s1.charset='UTF-8';
-              s1.setAttribute('crossorigin','*');
-              s0.parentNode.insertBefore(s1,s0);
-            })();
-          `}
-        </Script>
+        {/* Elfsight WhatsApp Chat | Untitled WhatsApp Chat */}
+        <Script src="https://elfsightcdn.com/platform.js" async></Script>
+        <div
+          className="elfsight-app-35d1073f-b9a7-4eda-ae8d-2560d7592904"
+          data-elfsight-app-lazy
+        ></div>
       </body>
     </html>
   );
