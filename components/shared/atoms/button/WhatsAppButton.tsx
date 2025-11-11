@@ -1,30 +1,15 @@
 import { FaWhatsapp } from "react-icons/fa";
+import data from "data/whatsApp.json";
 
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/+9779707342158"
+      href={`https://wa.me/${data.redirectNumber}`}
       target="_blank"
       rel="noopener noreferrer"
-      style={{
-        position: "fixed",
-        bottom: "20px",
-        right: "20px",
-        width: "65px",
-        height: "65px",
-        backgroundColor: "#25D366", // WhatsApp brand color
-        color: "#ffffff",
-        borderRadius: "50%",
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        fontSize: "32px",
-        zIndex: 9999,
-        textDecoration: "none",
-        boxShadow: "0 4px 12px rgba(0,0,0,0.3)",
-      }}
+      className="fixed bottom-5 right-5 w-[65px] h-[65px] bg-[#25D366] text-white rounded-full flex items-center justify-center text-2xl shadow-lg hover:scale-110 transition-transform duration-300 ease-in-out"
     >
-      <FaWhatsapp />
+      <FaWhatsapp size={35} />
     </a>
   );
 }
