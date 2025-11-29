@@ -4,12 +4,12 @@ import ClientLayoutWrapper from "./ClientLayoutWrapper";
 
 const inter = Inter({
   subsets: ["latin"],
-  variable: "--font-inter", // CSS variable
+  variable: "--font-inter",
 });
 
 const outfit = Outfit({
   subsets: ["latin"],
-  variable: "--font-outfit", // CSS variable for Outfit
+  variable: "--font-outfit",
 });
 
 export const metadata = {
