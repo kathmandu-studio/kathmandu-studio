@@ -20,6 +20,7 @@ export default function Partners() {
               alt={partner.alt}
               width={120}
               height={60}
+              style={{ maxHeight: "60px", objectFit: "contain" }}
             />
           </div>
         ))}

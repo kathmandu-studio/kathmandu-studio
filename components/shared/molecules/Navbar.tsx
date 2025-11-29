@@ -18,7 +18,7 @@ const links = [
       "Social Media Marketing",
       "Performance Marketing",
       "E-commerce Marketing",
-      "Campaign Management",
+      "Management Campaign",
       "SEO",
     ],
   },
@@ -81,11 +81,16 @@ export default function Navbar() {
               <div className="absolute left-0 mt-2 w-72 bg-secondary shadow-lg border rounded-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 z-20">
                 {link.dropdown.map((item) => {
                   const slug = item.toLowerCase().replace(/\s+/g, "-");
+                  const href = `/services/${slug}`;
+                  const isCurrent = pathname === href;
+
                   return (
                     <Link
                       key={item}
                       href={`/services/${slug}`}
-                      className="block px-4 py-2 hover:bg-gray-100"
+                      className={`block px-4 py-2 hover:bg-gray-100 ${
+                        isCurrent ? "pointer-events-none font-semibold" : ""
+                      }`}
                     >
                       {item}
                     </Link>

@@ -39,39 +39,65 @@
     }
   },
 
-  "solutions": {
+  "insights": {
     "h3": "We Solve your Growth Marketing Problems!",
     "p": "At ROI Minds, from stragey to execution - we fix whats broken, optimize what work, and scale what performs.",
     "list": [
       {
         "id": 1,
+        "src": "/assets/images/png/home/insight-1.png",
         "title": "High ROAS",
         "description": "Creative Driven Performance Marketing"
       },
       {
         "id": 2,
-        "title": "Dedicated team",
+        "src": "/assets/images/png/home/insight-2.png",
+        "title": "Dedicated Team",
         "description": "No More Scattered Team"
       },
       {
         "id": 3,
+        "src": "/assets/images/png/home/insight-3.png",
         "title": "Clear Growth Strategies",
         "description": "KPI & Goals Driven"
       },
       {
         "id": 4,
-        "title": "Strong Organic presence",
+        "src": "/assets/images/png/home/insight-4.png",
+        "title": "Strong Organic Presence",
         "description": "SEO & Content Authority"
       },
       {
         "id": 5,
+        "src": "/assets/images/png/home/insight-5.png",
         "title": "High Conversion Rate",
         "description": "Website, Funnels & Ads"
       },
       {
         "id": 6,
+        "src": "/assets/images/png/home/insight-6.png",
         "title": "Marketing Automation",
         "description": "Retention & Retargeting"
+      }
+    ]
+  },
+
+  "thumbnails": {
+    "list": [
+      {
+        "id": 1,
+        "src": "/assets/images/png/home/thumbnail-1.png",
+        "p": "Lorem ipsum dolor sit amet adipiscing"
+      },
+      {
+        "id": 2,
+        "src": "/assets/images/png/home/thumbnail-2.png",
+        "p": "Software solution"
+      },
+      {
+        "id": 3,
+        "src": "/assets/images/png/home/thumbnail-3.png",
+        "p": "Crypto service platform"
       }
     ]
   },
@@ -81,43 +107,69 @@
     "list": [
       {
         "id": 1,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 1",
+        "src": "/assets/images/png/home/partner-logo-1.png"
       },
       {
         "id": 2,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 2",
+        "src": "/assets/images/png/home/partner-logo-2.png"
       },
       {
         "id": 3,
-      "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+      "alt": "Partner 3",
+        "src": "/assets/images/png/home/partner-logo-3.png"
       },
       {
         "id": 4,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 4",
+        "src": "/assets/images/png/home/partner-logo-4.png"
       },
       {
         "id": 5,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 5",
+        "src": "/assets/images/png/home/partner-logo-5.png"
       },
       {
         "id": 6,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 6",
+        "src": "/assets/images/png/home/partner-logo-6.png"
       },
       {
         "id": 7,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 7",
+        "src": "/assets/images/png/home/partner-logo-7.png"
       },
       {
         "id": 8,
-        "alt": "Partner",
-        "src": "/assets/images/png/partner-brand.png"
+        "alt": "Partner 8",
+        "src": "/assets/images/png/home/partner-logo-8.png"
+      }
+    ]
+  },
+
+  "certifiedPartners": {
+    "h5": "Certified Partner With",
+    "list": [
+      {
+        "id": 1,
+        "alt": "Partner 1",
+        "src": "/assets/images/png/home/certified-partner-logo-1.png"
+      },
+      {
+        "id": 2,
+        "alt": "Partner 2",
+        "src": "/assets/images/png/home/certified-partner-logo-2.png"
+      },
+      {
+        "id": 3,
+      "alt": "Partner 3",
+        "src": "/assets/images/png/home/certified-partner-logo-3.png"
+      },
+      {
+        "id": 4,
+        "alt": "Partner 4",
+        "src": "/assets/images/png/home/certified-partner-logo-4.png"
       }
     ]
   }

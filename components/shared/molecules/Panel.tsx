@@ -11,10 +11,12 @@ export interface IPanelProps {
 }
 
 export default function Panel({ data }: { data: IPanelProps }) {
+  const { h3, list } = data;
+
   return (
     <div className="flex flex-col gap-4">
-      <h3 className="m-0 text-center">{data.h3}</h3>
-      <Accordion items={data.list} />
+      <h3 className="m-0 text-center">{h3}</h3>
+      <Accordion items={list} />
     </div>
   );
 }

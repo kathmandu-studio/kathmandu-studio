@@ -1,7 +1,6 @@
 import "./globals.css";
 import { Inter, Outfit } from "next/font/google";
-import LayoutWrapper from "components/shared/LayoutWrapper";
-import WhatsAppButton from "components/shared/atoms/button/WhatsAppButton";
+import ClientLayoutWrapper from "./ClientLayoutWrapper";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -26,8 +25,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body className="antialiased min-h-screen flex flex-col justify-between">
-        <LayoutWrapper>{children}</LayoutWrapper>
-        <WhatsAppButton />
+        <ClientLayoutWrapper>{children}</ClientLayoutWrapper>
       </body>
     </html>
   );

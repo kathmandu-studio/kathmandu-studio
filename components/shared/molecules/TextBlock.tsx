@@ -5,14 +5,15 @@ export interface ITextBlockProps {
 }
 
 export default function TextBlock({ data }: { data: ITextBlockProps }) {
-  const HeadingTag = data.h1 ? "h1" : "h3";
+  const { h1, h3, p } = data;
+  const HeadingTag = h1 ? "h1" : "h3";
 
   return (
     <div className="">
-      <HeadingTag className={data.h1 ? "text-start" : "text-center"}>
-        {data.h1 || data.h3}
+      <HeadingTag className={h1 ? "text-start" : "text-center"}>
+        {h1 || h3}
       </HeadingTag>
-      <p className="whitespace-pre-line">{data.p}</p>
+      <p className="whitespace-pre-line">{p}</p>
     </div>
   );
 }
