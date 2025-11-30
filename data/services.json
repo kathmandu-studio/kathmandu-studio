@@ -21,37 +21,37 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/social-media-marketing/insight-1.png",
+                    "src": "/assets/images/png/services/social-media-marketing/insight-1.png",
                     "title": "Social Media Audit",
                     "description": "Thorough evaluation of your current social media presence to identify strengths, weaknesses, and areas for improvement, providing valuable insights for an effective strategy."
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/social-media-marketing/insight-2.png",
+                    "src": "/assets/images/png/services/social-media-marketing/insight-2.png",
                     "title": "Community Engagement ",
                     "description": "Thorough evaluation of your current social media presence to identify strengths, weaknesses, and areas for improvement, providing valuable insights for an effective strategy."
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/social-media-marketing/insight-3.png",
+                    "src": "/assets/images/png/services/social-media-marketing/insight-3.png",
                     "title": "Content Creation a Distribution",
                     "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/social-media-marketing/insight-4.png",
+                    "src": "/assets/images/png/services/social-media-marketing/insight-4.png",
                     "title": "Social Media Strategy",
                     "description": "Develop a customized roadmap outlining goals, target audience, content themes, and tactics to achieve optimal engagement and meet your business objectives. "
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/social-media-marketing/insight-5.png",
+                    "src": "/assets/images/png/services/social-media-marketing/insight-5.png",
                     "title": "Analytics and Reporting",
                     "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/social-media-marketing/insight-6.png",
+                    "src": "/assets/images/png/services/social-media-marketing/insight-6.png",
                     "title": "Account Setup",
                     "description": "Create and optimize social media accounts across relevant platforms, ensuring consistent branding, keyword optimization, and strategic integration of business information."
                 }
@@ -63,32 +63,32 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/social-media-marketing/expectation-1.png",
+                    "src": "/assets/images/png/services/social-media-marketing/expectation-1.png",
                     "title": "Widespread Reach"
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/social-media-marketing/expectation-2.png",
+                    "src": "/assets/images/png/services/social-media-marketing/expectation-2.png",
                     "title": "Higher Brand Visibility"
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/social-media-marketing/expectation-3.png",
+                    "src": "/assets/images/png/services/social-media-marketing/expectation-3.png",
                     "title": "Higher Engagement"
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/social-media-marketing/expectation-4.png",
+                    "src": "/assets/images/png/services/social-media-marketing/expectation-4.png",
                     "title": "Viral Potential"
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/social-media-marketing/expectation-5.png",
+                    "src": "/assets/images/png/services/social-media-marketing/expectation-5.png",
                     "title": "Real-time Feedback"
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/social-media-marketing/expectation-6.png",
+                    "src": "/assets/images/png/services/social-media-marketing/expectation-6.png",
                     "title": "Vernacular Content"
                 }
             ]
@@ -148,37 +148,37 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/performance-marketing/insight-1.png",
+                    "src": "/assets/images/png/services/performance-marketing/insight-1.png",
                     "title": "Building Performance Marketing Strategy",
                     "description": "Develop customized strategies that align with your business goals, target audience, and industry trends to maximize online visibility and drive measurable results."
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/performance-marketing/insight-2.png",
+                    "src": "/assets/images/png/services/performance-marketing/insight-2.png",
                     "title": "Digital Marketing Campaign",
                     "description": "Continuously monitor and optimize media spending to ensure efficient allocation of budget, reduce acquisition costs, and maximize ROI for your digital marketing campaigns."
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/performance-marketing/insight-3.png",
+                    "src": "/assets/images/png/services/performance-marketing/insight-3.png",
                     "title": "Optimizing Media  Spend & CAC",
                     "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/performance-marketing/insight-4.png",
+                    "src": "/assets/images/png/services/performance-marketing/insight-4.png",
                     "title": "Campaign Strategy and Planning",
                     "description": "Develop campaign strategies & tactical plans, including content creation, ad targeting, & campaign timelines, to drive campaign success and achieve objectives."
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/performance-marketing/insight-5.png",
+                    "src": "/assets/images/png/services/performance-marketing/insight-5.png",
                     "title": "Data Analytics and Reporting",
                     "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/performance-marketing/insight-6.png",
+                    "src": "/assets/images/png/services/performance-marketing/insight-6.png",
                     "title": "Performance Marketing",
                     "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
                 }
@@ -190,32 +190,32 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/performance-marketing/expectation-1.png",
+                    "src": "/assets/images/png/services/performance-marketing/expectation-1.png",
                     "title": "Targeted Approach"
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/performance-marketing/expectation-2.png",
+                    "src": "/assets/images/png/services/performance-marketing/expectation-2.png",
                     "title": "Measurable Result"
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/performance-marketing/expectation-3.png",
+                    "src": "/assets/images/png/services/performance-marketing/expectation-3.png",
                     "title": "Cost-Effectiveness"
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/performance-marketing/expectation-4.png",
+                    "src": "/assets/images/png/services/performance-marketing/expectation-4.png",
                     "title": "Flexibility and Scalability"
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/performance-marketing/expectation-5.png",
+                    "src": "/assets/images/png/services/performance-marketing/expectation-5.png",
                     "title": "Transparency and Accountability"
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/performance-marketing/expectation-6.png",
+                    "src": "/assets/images/png/services/performance-marketing/expectation-6.png",
                     "title": "Higher ROI"
                 }
             ]
@@ -281,37 +281,37 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/ecommerce-marketing/insight-1.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/insight-1.png",
                     "title": "E-commerce Strategy",
                     "description": "Growth starts with the right plan. From market positioning to channel mix, we craft custom roadmaps aligned with your goals and audience."
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/ecommerce-marketing/insight-2.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/insight-2.png",
                     "title": "Performance Marketing",
                     "description": "Turn more visitors into buyers.From product page tweaks to checkout flow fixes, we use data to unlock more revenue per session."
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/ecommerce-marketing/insight-3.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/insight-3.png",
                     "title": "Conversion Rate Optimization (CRO)",
                     "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/ecommerce-marketing/insight-4.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/insight-4.png",
                     "title": "Retention Marketing",
                     "description": "Maximize lifetime value. We build automated WhatsApp and email journeys that bring your customers back—again and again."
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/ecommerce-marketing/insight-5.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/insight-5.png",
                     "title": "Social Media Marketing",
                     "description": "Build a brand your customers love. We create scroll-stopping content that engages, educates, and nudges your audience toward purchase."
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/ecommerce-marketing/insight-6.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/insight-6.png",
                     "title": "Analytics & Attribution",
                     "description": "Know what’s working, where, and why. We set up advanced tracking, GA4, and conversion APIs to give you full-funnel clarity."
                 }
@@ -323,32 +323,32 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/ecommerce-marketing/expectation-1.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-1.png",
                     "title": "Targeted Approach"
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/ecommerce-marketing/expectation-2.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-2.png",
                     "title": "Immense Reach"
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/ecommerce-marketing/expectation-3.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-3.png",
                     "title": "Cost-Effectiveness"
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/ecommerce-marketing/expectation-4.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-4.png",
                     "title": "High Scalability"
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/ecommerce-marketing/expectation-5.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-5.png",
                     "title": "Data-Driven Insights"
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/ecommerce-marketing/expectation-6.png",
+                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-6.png",
                     "title": "Enhanced Customer Experience"
                 }
             ]
@@ -413,37 +413,37 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/management-campaign/insight-1.png",
+                    "src": "/assets/images/png/services/management-campaign/insight-1.png",
                     "title": "Strategic Planning & Consulting",
                     "description": "Expert guidance to create effective business strategies tailored to your company’s goals, market position, and long-term vision. We help streamline decision-making, set clear objectives, and guide your business toward sustainable growth."
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/management-campaign/insight-2.png",
+                    "src": "/assets/images/png/services/management-campaign/insight-2.png",
                     "title": "Performance Audits",
                     "description": "Comprehensive evaluation of your organization’s structure, processes, and workflows. We identify strengths, weaknesses, and areas for improvement to ensure peak efficiency and stronger outcomes."
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/management-campaign/insight-3.png",
+                    "src": "/assets/images/png/services/management-campaign/insight-3.png",
                     "title": "Team Development & Leadership Training",
                     "description": "Customized programs to build stronger teams and develop leadership capabilities. From communication to conflict resolution, we ensure your workforce is empowered to achieve more."
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/management-campaign/insight-4.png",
+                    "src": "/assets/images/png/services/management-campaign/insight-4.png",
                     "title": "Operational Optimization",
                     "description": "Analyzing and refining internal processes to improve efficiency, reduce costs, and enhance workflow. We help you implement systems that support scalability and long-term success."
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/management-campaign/insight-5.png",
+                    "src": "/assets/images/png/services/management-campaign/insight-5.png",
                     "title": "Change Management",
                     "description": "Smoothly navigating organizational transitions with strategies that mLong-Term Business Growthinimize disruption and boost adaptability. We ensure employees are aligned, engaged, and ready for transformation."
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/management-campaign/insight-6.png",
+                    "src": "/assets/images/png/services/management-campaign/insight-6.png",
                     "title": "Project Management Solutions",
                     "description": "From planning to execution, we provide structured project management support, ensuring timely delivery, efficient resource allocation, and successful outcomes."
                 }
@@ -455,32 +455,32 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/management-campaign/expectation-1.png",
+                    "src": "/assets/images/png/services/management-campaign/expectation-1.png",
                     "title": "Streamlined Operations"
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/management-campaign/expectation-2.png",
+                    "src": "/assets/images/png/services/management-campaign/expectation-2.png",
                     "title": "Improved Team Productivity"
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/management-campaign/expectation-3.png",
+                    "src": "/assets/images/png/services/management-campaign/expectation-3.png",
                     "title": "Stronger Leadership & Decision Making"
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/management-campaign/expectation-4.png",
+                    "src": "/assets/images/png/services/management-campaign/expectation-4.png",
                     "title": "Long-Term Business Growth"
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/management-campaign/expectation-5.png",
+                    "src": "/assets/images/png/services/management-campaign/expectation-5.png",
                     "title": "Enhanced Organizational Efficiency"
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/management-campaign/expectation-6.png",
+                    "src": "/assets/images/png/services/management-campaign/expectation-6.png",
                     "title": "Competitive Advantage"
                 }
             ]
@@ -545,37 +545,37 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/seo/insight-1.png",
+                    "src": "/assets/images/png/services/seo/insight-1.png",
                     "title": "SEO Consulting and Strategy",
                     "description": "Expert guidance on developing effective SEO strategies tailored to your business goals, target audience, and industry trends to improve organic search visibility and drive website traffic."
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/seo/insight-2.png",
+                    "src": "/assets/images/png/services/seo/insight-2.png",
                     "title": "SEO Audits",
                     "description": "Comprehensive evaluation of your website's SEO health, identifying strengths, weaknesses, and areas for improvement to enhance search engine rankings and overall website performance."
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/seo/insight-3.png",
+                    "src": "/assets/images/png/services/seo/insight-3.png",
                     "title": "Keyword Research",
                     "description": "In-depth research to identify relevant keywords and search phrases that align with your target audience's search intent, optimizing your website's content for better organic search rankings. "
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/seo/insight-4.png",
+                    "src": "/assets/images/png/services/seo/insight-4.png",
                     "title": "On-Page Optimization",
                     "description": "Optimizing webpage elements such as titles, headings, meta tags, and content structure to improve keyword relevance, user experience, and search engine crawlability in Google search engine."
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/seo/insight-5.png",
+                    "src": "/assets/images/png/services/seo/insight-5.png",
                     "title": "Technical SEO",
                     "description": "Analysing and optimizing technical aspects of your website, including site speed, mobile-friendliness, URL structure, and website indexing to ensure search engines can effectively crawl and index your site."
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/seo/insight-6.png",
+                    "src": "/assets/images/png/services/seo/insight-6.png",
                     "title": "Content Optimization",
                     "description": "Enhancing the quality, relevance, and keyword integration within your website's content, ensuring it aligns with user intent, engages readers, and ranks well in search engine results for better organic growth."
                 }
@@ -587,32 +587,32 @@
             "list": [
                 {
                     "id": 1,
-                    "src": "/assets/images/png/seo/expectation-1.png",
+                    "src": "/assets/images/png/services/seo/expectation-1.png",
                     "title": "Increased Ranking in SERPs"
                 },
                 {
                     "id": 2,
-                    "src": "/assets/images/png/seo/expectation-2.png",
+                    "src": "/assets/images/png/services/seo/expectation-2.png",
                     "title": "Targeted Traffic"
                 },
                 {
                     "id": 3,
-                    "src": "/assets/images/png/seo/expectation-3.png",
+                    "src": "/assets/images/png/services/seo/expectation-3.png",
                     "title": "Credibility and Trust"
                 },
                 {
                     "id": 4,
-                    "src": "/assets/images/png/seo/expectation-4.png",
+                    "src": "/assets/images/png/services/seo/expectation-4.png",
                     "title": "Long-Term Effects"
                 },
                 {
                     "id": 5,
-                    "src": "/assets/images/png/seo/expectation-5.png",
+                    "src": "/assets/images/png/services/seo/expectation-5.png",
                     "title": "Enhanced User Experience"
                 },
                 {
                     "id": 6,
-                    "src": "/assets/images/png/seo/expectation-6.png",
+                    "src": "/assets/images/png/services/seo/expectation-6.png",
                     "title": "Competitive Advantage"
                 }
             ]

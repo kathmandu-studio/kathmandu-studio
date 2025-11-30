@@ -28,7 +28,7 @@ export default function VectorContainer({
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4 lg:gap-8">
         {list.map((datum: IVectorItem) => (
           <div key={datum.id} className="flex flex-col items-center gap-4">
-            <Image src={datum.src} alt={datum.title} width={100} height={100} />
+            <Image src={datum.src} alt={datum.title} width={80} height={80} />
             <div className="flex flex-col justify-center gap-2">
               <h6 className="m-0 text-center font-semibold">{datum.title}</h6>
             </div>
