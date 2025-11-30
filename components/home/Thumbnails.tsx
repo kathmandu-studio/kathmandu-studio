@@ -6,7 +6,7 @@ export default function Thumbnails() {
 
   return (
     <div className="flex flex-wrap gap-4">
-      {thumbnails.list.map((thumbnail, index) => (
+      {thumbnails.map((thumbnail, index) => (
         <ImageContainer
           key={thumbnail.id}
           data={thumbnail}

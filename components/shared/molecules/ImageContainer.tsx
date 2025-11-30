@@ -8,21 +8,26 @@ export interface IImageContainerProps {
 
 interface IIndexes {
   current: number;
-  fullWidth: number[];
+  fullWidth?: number[];
+}
+
+interface ImageContainerProps {
+  data: IImageContainerProps;
+  indexes: IIndexes;
+  onClick?: () => void;
 }
 
 export default function ImageContainer({
   data,
   indexes,
-}: {
-  data: IImageContainerProps;
-  indexes: IIndexes;
-}) {
-  const isFullWidth = indexes.fullWidth.includes(indexes.current);
+  onClick,
+}: ImageContainerProps) {
+  const isFullWidth = indexes.fullWidth?.includes(indexes.current);
 
   return (
     <div
-      className=" flex flex-col"
+      onClick={onClick}
+      className={`flex flex-col ${onClick ? "cursor-pointer" : ""}`}
       style={{
         width: isFullWidth ? "100%" : "calc(50% - 8px)",
       }}
@@ -32,7 +37,7 @@ export default function ImageContainer({
           src={data.src}
           alt={data.p}
           fill
-          style={{ objectFit: "cover" }}
+          style={{ objectFit: "cover", maxHeight: "600px" }}
         />
       </div>
       <p className="mt-2">{data.p}</p>

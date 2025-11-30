@@ -82,25 +82,23 @@
     ]
   },
 
-  "thumbnails": {
-    "list": [
-      {
-        "id": 1,
-        "src": "/assets/images/png/home/thumbnail-1.png",
-        "p": "Lorem ipsum dolor sit amet adipiscing"
-      },
-      {
-        "id": 2,
-        "src": "/assets/images/png/home/thumbnail-2.png",
-        "p": "Software solution"
-      },
-      {
-        "id": 3,
-        "src": "/assets/images/png/home/thumbnail-3.png",
-        "p": "Crypto service platform"
-      }
-    ]
-  },
+  "thumbnails": [
+    {
+      "id": 1,
+      "src": "/assets/images/png/home/thumbnail-1.png",
+      "p": "Lorem ipsum dolor sit amet adipiscing"
+    },
+    {
+      "id": 2,
+      "src": "/assets/images/png/home/thumbnail-2.png",
+      "p": "Software solution"
+    },
+    {
+      "id": 3,
+      "src": "/assets/images/png/home/thumbnail-3.png",
+      "p": "Crypto service platform"
+    }
+  ],
 
   "partners": {
     "h3": "Trusted by Partners Worldwide",

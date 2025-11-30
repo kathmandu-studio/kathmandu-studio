@@ -11,6 +11,7 @@ import { StartProjectButton } from "components/shared/atoms/button";
 
 const links = [
   { name: "Home", href: "/" },
+  { name: "Work", href: "/work" },
   {
     name: "Services",
     href: "/services",
@@ -23,7 +24,6 @@ const links = [
     ],
   },
   { name: "Studio", href: "/studio" },
-  { name: "Courses", href: "/courses" },
 ];
 
 export default function Navbar() {
@@ -54,7 +54,7 @@ export default function Navbar() {
       </div>
 
       {/* Desktop Menu */}
-      <nav className="hidden md:flex gap-8 items-start">
+      <nav className="hidden md:flex gap-16 items-start">
         {links.map((link) => (
           <div key={link.name} className="relative group select-none">
             {link.dropdown ? (

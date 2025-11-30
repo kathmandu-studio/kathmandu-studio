@@ -1,7 +1,7 @@
 { 
     "socialMediaMarketing": {
         "banner":{
-            "src": "/assets/images/jpg/social-media-marketing-banner.jpg",
+            "src": "/assets/images/jpg/services/social-media-marketing-banner.jpg",
             "alt": "Social media marketing banner"
         },
 
@@ -128,7 +128,7 @@
 
     "performanceMarketing": {
           "banner":{
-            "src": "/assets/images/jpg/performance-marketing-banner.jpg",
+            "src": "/assets/images/jpg/services/performance-marketing-banner.jpg",
             "alt": "Performance marketing banner"
         },
 
@@ -261,7 +261,7 @@
 
     "eCommerceMarketing": {
         "banner":{
-            "src": "/assets/images/jpg/ecommerce-marketing-banner.jpg",
+            "src": "/assets/images/jpg/services/ecommerce-marketing-banner.jpg",
             "alt": "E-commerce banner"
         },
 
@@ -393,7 +393,7 @@
 
     "managementCampaign": {
           "banner":{
-            "src": "/assets/images/jpg/management-campaign-banner.jpg",
+            "src": "/assets/images/jpg/services/management-campaign-banner.jpg",
             "alt": "Management campaign banner"
         },
 
@@ -525,7 +525,7 @@
 
     "seo": {
         "banner":{
-            "src": "/assets/images/jpg/seo-banner.jpg",
+            "src": "/assets/images/jpg/services/seo-banner.jpg",
             "alt": "Seo banner"
         },
 

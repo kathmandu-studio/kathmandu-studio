@@ -1,11 +1,11 @@
 import {
   Approach,
+  Expectations,
   FAQs,
   Hero,
   Insights,
   StartProject,
 } from "components/services";
-import Expectations from "components/services/Expectations";
 import data from "data/services.json";
 
 export default function ManagementCampaign() {
