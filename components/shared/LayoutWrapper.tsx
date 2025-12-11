@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import { Navbar, Footer, Banner } from "components/shared/molecules";
 import work from "data/work.json";
 import services from "data/services.json";
-import { toCamelCaseFromUrlExtraction } from "utils";
+import { toCamelCaseFromUrlExtraction } from "utils/misc";
 
 interface LayoutWrapperProps {
   children: React.ReactNode;

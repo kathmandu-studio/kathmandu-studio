@@ -14,3 +14,7 @@ export function toCamelCaseFromUrlExtraction(url: string) {
     )
     .join("");
 }
+
+export const setPageTitle = (title: string) => {
+  document.title = `${title} | Kathmandu Studio`;
+};
