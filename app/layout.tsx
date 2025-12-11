@@ -1,6 +1,7 @@
 import "./globals.css";
 import { Inter, Outfit } from "next/font/google";
 import ClientLayoutWrapper from "./ClientLayoutWrapper";
+import AnalyticsProvider from "./AnalyticsProvider";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -25,7 +26,10 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${inter.variable} ${outfit.variable}`}>
       <body className="antialiased min-h-screen flex flex-col justify-between">
-        <ClientLayoutWrapper>{children}</ClientLayoutWrapper>
+        <ClientLayoutWrapper>
+          <AnalyticsProvider />
+          {children}
+        </ClientLayoutWrapper>
       </body>
     </html>
   );
