@@ -5,7 +5,7 @@ import { ImageContainer } from "components/shared/molecules";
 interface IThumbnail {
   id: number;
   src: string;
-  p: string;
+  p?: string;
 }
 
 interface IThumbnailsProps {
@@ -14,7 +14,7 @@ interface IThumbnailsProps {
 
 export default function Thumbnails({ data }: IThumbnailsProps) {
   return (
-    <div className="flex flex-wrap gap-4">
+    <div className="flex flex-wrap justify-between gap-6 sm:gap-12">
       {data.map((datum, index) => {
         const { id } = datum;
 

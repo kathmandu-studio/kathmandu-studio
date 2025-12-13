@@ -1,9 +1,9 @@
-{ 
+{
   "hero": {
     "h1": "Data-driven digital marketing agency & creative studio.",
     "services": {
       "h3": "Our Services",
-      "p": "Lorem ipsum dolor sit amet adipiscing elit. Nunc ullamocoper scelisque mi, malesuada felis masrea veil esti ota owle mi nucu.",
+      "p": "We specialize in a range of services that synergize to maximize your online presence and drive tangible results.",
       "list": [
         {
           "id": 1,
@@ -86,17 +86,20 @@
     {
       "id": 1,
       "src": "/assets/images/png/home/thumbnail-1.png",
-      "p": "Lorem ipsum dolor sit amet adipiscing"
+      "name": "LAVANYA VILLA",
+      "p": "Social Media Photo Shoot"
     },
     {
       "id": 2,
       "src": "/assets/images/png/home/thumbnail-2.png",
-      "p": "Software solution"
+      "name": "Tony’s Dawg",
+      "p": "Branding Campaign"
     },
     {
       "id": 3,
       "src": "/assets/images/png/home/thumbnail-3.png",
-      "p": "Crypto service platform"
+      "name": "IMEX",
+      "p": "Brand Assets & Social Media Creatives "
     }
   ],
 
@@ -115,7 +118,7 @@
       },
       {
         "id": 3,
-      "alt": "Partner 3",
+        "alt": "Partner 3",
         "src": "/assets/images/png/home/partner-logo-3.png"
       },
       {
@@ -161,7 +164,7 @@
       },
       {
         "id": 3,
-      "alt": "Partner 3",
+        "alt": "Partner 3",
         "src": "/assets/images/png/home/certified-partner-logo-3.png"
       },
       {

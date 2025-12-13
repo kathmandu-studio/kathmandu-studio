@@ -9,7 +9,7 @@ export default function Thumbnails() {
   const workList = data.work;
 
   return (
-    <div className="flex flex-wrap gap-4">
+    <div className="flex flex-wrap justify-between gap-6 sm:gap-12">
       {workList.list.map((work, index) => {
         const { id } = work;
 

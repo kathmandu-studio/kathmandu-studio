@@ -1,88 +1,102 @@
-{   
-    "work": {
-        "banner":{
-            "src": "/assets/images/jpg/seo-banner.jpg",
-            "alt": "Work banner"
-        },
+{
+  "work": {
+    "banner": {
+      "src": "/assets/images/jpg/work/banner.jpg",
+      "alt": "Work banner"
+    },
 
-        "approach": {
-            "h3": "Our Approach",
-            "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc."
-        },
+    "approach": {
+      "h3": "Our Approach",
+      "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc."
+    },
 
-        "list": [
-            {
-                "id": 1,
-                "src": "/assets/images/jpg/work/1/thumbnail.jpg",
-                "p": "Lavanya Villa",
-                "banner": "/assets/images/jpg/work/1/banner.jpg",
-                "overview": {
-                    "h3": "Overview",
-                    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc."
-                },
-                "thumbnails": [
-                    {
-                        "id": 1,
-                        "src": "/assets/images/jpg/work/1/thumbnail-1.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    },
-                    {
-                        "id": 2,
-                        "src": "/assets/images/jpg/work/1/thumbnail-2.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    },
-                    {
-                        "id": 3,
-                        "src": "/assets/images/jpg/work/1/thumbnail-3.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    },
-                    {
-                        "id": 4,
-                        "src": "/assets/images/jpg/work/1/thumbnail-4.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    }
-                ],
-                "startProject": {
-                    "h3": "Get in touch with us forSocial Media Marketing Services",
-                    "label": "Start a Project"
-                }
-            },
-            {
-                "id": 2,
-                "src": "/assets/images/jpg/work/2/thumbnail.jpg",
-                "p": "Tony's",
-                "banner": "/assets/images/jpg/work/2/banner.jpg",
-                "overview": {
-                    "h3": "Overview",
-                    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
-                },
-                "thumbnails":   [
-                    {
-                        "id": 1,
-                        "src": "/assets/images/jpg/work/2/thumbnail-1.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    },
-                    {
-                        "id": 2,
-                        "src": "/assets/images/jpg/work/2/thumbnail-2.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    },
-                    {
-                        "id": 3,
-                        "src": "/assets/images/jpg/work/2/thumbnail-3.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    },
-                    {
-                        "id": 4,
-                        "src": "/assets/images/jpg/work/2/thumbnail-4.jpg",
-                        "p": "Lorem ipsum dolor sit amet adipiscing"
-                    }
-                ],
-                "startProject": {
-                    "h3": "Get in touch with us forSocial Media Marketing Services",
-                    "label": "Start a Project"
-                }
-            }
-        ]
-    }
+    "list": [
+      {
+        "id": 1,
+        "src": "/assets/images/jpg/work/1/thumbnail.jpg",
+        "name": "Lavanya Villa",
+        "p": "Social Media Photo Shoot",
+        "banner": "/assets/images/jpg/work/1/banner.jpg",
+        "overview": {
+          "h3": "OVERVIEW",
+          "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc."
+        },
+        "whatWeDid": [
+          "Social Media Content",
+          "Brand Identity",
+          "2D Animation",
+          "3D Animation",
+          "Branded Merchandise",
+          "Packaging & Print",
+          "Web & App Design",
+          "Promos Video and TVC "
+        ],
+        "thumbnails": [
+          {
+            "id": 1,
+            "src": "/assets/images/jpg/work/1/thumbnail-1.jpg"
+          },
+          {
+            "id": 2,
+            "src": "/assets/images/jpg/work/1/thumbnail-2.jpg"
+          },
+          {
+            "id": 3,
+            "src": "/assets/images/jpg/work/1/thumbnail-3.jpg"
+          },
+          {
+            "id": 4,
+            "src": "/assets/images/jpg/work/1/thumbnail-4.jpg"
+          }
+        ],
+        "startProject": {
+          "h3": "Get in touch with us for Social Media Marketing Services",
+          "label": "Start a Project"
+        }
+      },
+      {
+        "id": 2,
+        "src": "/assets/images/jpg/work/2/thumbnail.jpg",
+        "name": "Tony’s  Dawgs",
+        "p": "Branding Campaign",
+        "banner": "/assets/images/jpg/work/2/banner.jpg",
+        "overview": {
+          "h3": "OVERVIEW",
+          "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "whatWeDid": [
+          "Social Media Content",
+          "Brand Identity",
+          "2D Animation",
+          "3D Animation",
+          "Branded Merchandise",
+          "Packaging & Print",
+          "Web & App Design",
+          "Promos Video and TVC "
+        ],
+        "thumbnails": [
+          {
+            "id": 1,
+            "src": "/assets/images/jpg/work/2/thumbnail-1.jpg"
+          },
+          {
+            "id": 2,
+            "src": "/assets/images/jpg/work/2/thumbnail-2.jpg"
+          },
+          {
+            "id": 3,
+            "src": "/assets/images/jpg/work/2/thumbnail-3.jpg"
+          },
+          {
+            "id": 4,
+            "src": "/assets/images/jpg/work/2/thumbnail-4.jpg"
+          }
+        ],
+        "startProject": {
+          "h3": "Get in touch with us for Social Media Marketing Services",
+          "label": "Start a Project"
+        }
+      }
+    ]
+  }
 }

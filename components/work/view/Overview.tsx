@@ -9,5 +9,5 @@ interface IOverviewProps {
 export default function Overview({ data }: IOverviewProps) {
   if (!data) return null;
 
-  return <TextBlock data={data} />;
+  return <TextBlock data={data} className="text-start" />;
 }
