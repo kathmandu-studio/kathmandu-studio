@@ -19,7 +19,7 @@ const links = [
       "Social Media Marketing",
       "Performance Marketing",
       "E-commerce Marketing",
-      "Management Campaign",
+      "Campaign Management",
       "SEO",
     ],
   },

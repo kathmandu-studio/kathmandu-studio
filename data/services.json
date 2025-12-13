@@ -1,657 +1,656 @@
-{ 
-    "socialMediaMarketing": {
-        "banner":{
-            "src": "/assets/images/jpg/services/social-media-marketing-banner.jpg",
-            "alt": "Social media marketing banner"
-        },
-
-        "hero": {
-            "h1": "Make your brand digitally visible with Our Social Media Marketing Agency",
-            "p": "In a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee,  we curate content that resonates with diverse audiences on different platforms, ensuring better results."
-        },
-
-        "approach": {
-            "h3": "Our Approach",
-            "p": "At Socialee, our prime focus in social media marketing is community-building efforts that revolve around enhancing branding excellence. We understand the power of cultivating a strong and engaged community for our clients.\n\nWith our expertise in branding, content curation, and interactive content creation, we strategically collaborate with talented content creators to craft captivating experiences that resonate with your target audience. By fostering meaningful connections, driving conversations, and curating compelling content, we help build an authentic and loyal community around your brand."
-        },
-
-        "insights": {
-            "h3": "Social Media Marketing",
-            "p": "Welcome to the hub of strategic and engaging Social Media Management services at Socialee.\n\nOur mission is to cultivate a vibrant digital presence for your brand, foster authentic connections and elevate your online identity.",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/social-media-marketing/insight-1.png",
-                    "title": "Social Media Audit",
-                    "description": "Thorough evaluation of your current social media presence to identify strengths, weaknesses, and areas for improvement, providing valuable insights for an effective strategy."
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/social-media-marketing/insight-2.png",
-                    "title": "Community Engagement ",
-                    "description": "Thorough evaluation of your current social media presence to identify strengths, weaknesses, and areas for improvement, providing valuable insights for an effective strategy."
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/social-media-marketing/insight-3.png",
-                    "title": "Content Creation a Distribution",
-                    "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/social-media-marketing/insight-4.png",
-                    "title": "Social Media Strategy",
-                    "description": "Develop a customized roadmap outlining goals, target audience, content themes, and tactics to achieve optimal engagement and meet your business objectives. "
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/social-media-marketing/insight-5.png",
-                    "title": "Analytics and Reporting",
-                    "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/social-media-marketing/insight-6.png",
-                    "title": "Account Setup",
-                    "description": "Create and optimize social media accounts across relevant platforms, ensuring consistent branding, keyword optimization, and strategic integration of business information."
-                }
-            ]
-        },
-
-        "expectations": {
-            "h3": "What you can expect from Social Media Marketing",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/social-media-marketing/expectation-1.png",
-                    "title": "Widespread Reach"
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/social-media-marketing/expectation-2.png",
-                    "title": "Higher Brand Visibility"
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/social-media-marketing/expectation-3.png",
-                    "title": "Higher Engagement"
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/social-media-marketing/expectation-4.png",
-                    "title": "Viral Potential"
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/social-media-marketing/expectation-5.png",
-                    "title": "Real-time Feedback"
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/social-media-marketing/expectation-6.png",
-                    "title": "Vernacular Content"
-                }
-            ]
-        },
-
-        "faqs": {
-            "h3": "FAQs related to our SSM Services",
-            "list": [
-                {
-                    "id": 1,
-                    "title": "How can Socialee help me get value from social media marketing?",
-                    "content": "Socialee stands out as a focused company (doing SMM since 2014), prioritizing quality over quantity. Instead of trying to cover everything, we excel at our limited services. We embrace bold and innovative ideas fearlessly, bringing fresh perspectives to the table. Our young and dynamic team (50+ team members) is dedicated to delivering exceptional results and helping your brand thrive in the digital landscape."
-                },
-                {
-                    "id": 2,
-                    "title": "How do you measure the success of social media campaigns?",
-                    "content": "Our team tracks key performance indicators (KPIs) such as engagement rates, reach, website traffic, and conversions. Using advanced analytics tools, we provide detailed reports with actionable insights, allowing us to continually optimize your social media strategy for optimal results."
-                },
-                {
-                    "id": 3,
-                    "title": "Why should I choose Socialee as my social media marketing agency?",
-                    "content": "Socialee stands out as a focused company (doing SMM since 2014), prioritizing quality over quantity. Instead of trying to cover everything, we excel at our limited services. We embrace bold and innovative ideas fearlessly, bringing fresh perspectives to the table. Our young and dynamic team (50+ team members) is dedicated to delivering exceptional results and helping your brand thrive in the digital landscape."
-                },
-                {
-                    "id": 4,
-                    "title": "How do you initiate engagement with a new client?",
-                    "content": "We start by conducting a brand brief call to gain insights into your target audience, key offerings, USPs, and positioning. Through detailed research, we identify the most suitable social media platforms aligned with your target audience’s preferences. We then share a monthly plan of action based on our findings and recommendations."
-                }
-            ]
-        },
-
-        "startProject": {
-            "h3": "Get in touch with us for Social Media Marketing Services",
-            "label": "Start a Project"
-        }
+{
+  "socialMediaMarketing": {
+    "banner": {
+      "src": "/assets/images/jpg/services/social-media-marketing-banner.jpg",
+      "alt": "Social media marketing banner"
     },
 
-    "performanceMarketing": {
-          "banner":{
-            "src": "/assets/images/jpg/services/performance-marketing-banner.jpg",
-            "alt": "Performance marketing banner"
-        },
-
-        "hero": {
-            "h1": "Performance Marketing PPC Services in NEPAL",
-            "p": "At Socialee, our approach to performance marketing is rooted in a deep understanding of your customer's decision-making process and the strategic orchestration of touchpoints.\n\nWe begin by delving into the intricacies of your target audience's preferences, needs, and behaviours, unravelling the threads of their purchasing journey. This foundational insight allows us to craft a tailored strategy that speaks directly to their desires at each touchpoint."
-        },
-
-        "approach": {
-            "h3": "Our Approach",
-            "p": "n a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee, we curate content that resonates with diverse audiences on different platforms, ensuring better results."
-        },
-
-        "insights": {
-            "h3": "Performance Marketing",
-            "p": "",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/performance-marketing/insight-1.png",
-                    "title": "Building Performance Marketing Strategy",
-                    "description": "Develop customized strategies that align with your business goals, target audience, and industry trends to maximize online visibility and drive measurable results."
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/performance-marketing/insight-2.png",
-                    "title": "Digital Marketing Campaign",
-                    "description": "Continuously monitor and optimize media spending to ensure efficient allocation of budget, reduce acquisition costs, and maximize ROI for your digital marketing campaigns."
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/performance-marketing/insight-3.png",
-                    "title": "Optimizing Media  Spend & CAC",
-                    "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/performance-marketing/insight-4.png",
-                    "title": "Campaign Strategy and Planning",
-                    "description": "Develop campaign strategies & tactical plans, including content creation, ad targeting, & campaign timelines, to drive campaign success and achieve objectives."
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/performance-marketing/insight-5.png",
-                    "title": "Data Analytics and Reporting",
-                    "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/performance-marketing/insight-6.png",
-                    "title": "Performance Marketing",
-                    "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
-                }
-            ]
-        },
-
-        "expectations": {
-            "h3": "What you can expect from Performance Marketing",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/performance-marketing/expectation-1.png",
-                    "title": "Targeted Approach"
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/performance-marketing/expectation-2.png",
-                    "title": "Measurable Result"
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/performance-marketing/expectation-3.png",
-                    "title": "Cost-Effectiveness"
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/performance-marketing/expectation-4.png",
-                    "title": "Flexibility and Scalability"
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/performance-marketing/expectation-5.png",
-                    "title": "Transparency and Accountability"
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/performance-marketing/expectation-6.png",
-                    "title": "Higher ROI"
-                }
-            ]
-        },
-
-        "faqs": {
-            "h3": "FAQs related to our SSM Services",
-            "list": [
-                {
-                    "id": 1,
-                    "title": "What is performance marketing and how does it differ from traditional marketing?",
-                    "content": "Performance marketing is a results-driven approach where advertisers only pay when specific actions are taken, such as clicks, conversions, or leads. Unlike traditional content marketing, google ads management services or Facebook ads management services focus on measurable outcomes rather than solely on brand awareness or impressions. "
-                },
-                {
-                    "id": 2,
-                    "title": "What are the key benefits of hiring a performance marketing agency for my business?",
-                    "content": "Performance marketing offers several benefits, including precise targeting, cost-effectiveness, transparent ROI tracking, scalability, and the ability to optimize campaigns based on real-time data. It allows you to maximize your marketing budget by driving actual results and ensuring a higher return on investment. "
-                },
-                {
-                    "id": 3,
-                    "title": "How do you determine the right performance marketing channels for my business?",
-                    "content": "We conduct thorough research and analysis of your target audience, industry, and marketing goals to identify the most relevant performance marketing channels. This includes considering factors such as audience demographics, platform effectiveness, and industry benchmarks to ensure the best channel selection for optimal campaign performance."
-                },
-                {
-                    "id": 4,
-                    "title": "How do you measure the success of performance marketing campaigns?",
-                    "content": "We use advanced tracking and analytics tools to measure key performance indicators (KPIs) such as click-through rates, conversions, cost per acquisition, and return on ad spend. These metrics providevaluable insights into campaign performance and enable us to make data-driven optimizations for ongoing success. "
-                },
-                {
-                    "id": 5,
-                    "title": "How often will we receive reports on our brand’s performance marketing campaigns?",
-                    "content": "We provide regular and transparent reporting on the performance of your campaigns. Depending on your preference and campaign duration, we can offer weekly, monthly, or customized reporting intervals. These reports will include comprehensive insights, key metrics, and actionable recommendations to optimize your performance marketing efforts."
-                }
-            ]
-        },
-
-        
-        "startProject": {
-            "h3": "Get in touch with us for Performance Marketing Services",
-            "label": "Start a Project"
-        }
+    "hero": {
+      "h1": "Make your brand digitally visible with Our Social Media Marketing Agency",
+      "p": "In a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee,  we curate content that resonates with diverse audiences on different platforms, ensuring better results."
     },
 
-    "eCommerceMarketing": {
-        "banner":{
-            "src": "/assets/images/jpg/services/ecommerce-marketing-banner.jpg",
-            "alt": "E-commerce banner"
-        },
-
-        "hero": {
-            "h1": "Ace the Ecommerce game with Our Ecommerce Marketing Agency",
-            "p": "In the ever-evolving world of online shopping, effective e-commerce marketing is crucial for driving traffic, increasing conversions, and maximizing revenue. \n\nSocialee specializes in optimizing eCommerce marketing through tailored services that generate tangible business results. With our expertise, we strategically implement customized solutions to increase sales, enhance the user experience, and maximize return on investment. By leveraging data-driven strategies, innovative e-commerce marketing services, and seamless user journeys, we empower businesses to achieve unparalleled success in the competitive eCommerce landscape. "
-        },
-
-        "approach": {
-            "h3": "Our Approach",
-            "p": "n a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee, we curate content that resonates with diverse audiences on different platforms, ensuring better results."
-        },
-
-        "insights": {
-            "h3": "E-commerce Marketing",
-            "p": "",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/ecommerce-marketing/insight-1.png",
-                    "title": "E-commerce Strategy",
-                    "description": "Growth starts with the right plan. From market positioning to channel mix, we craft custom roadmaps aligned with your goals and audience."
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/ecommerce-marketing/insight-2.png",
-                    "title": "Performance Marketing",
-                    "description": "Turn more visitors into buyers.From product page tweaks to checkout flow fixes, we use data to unlock more revenue per session."
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/ecommerce-marketing/insight-3.png",
-                    "title": "Conversion Rate Optimization (CRO)",
-                    "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/ecommerce-marketing/insight-4.png",
-                    "title": "Retention Marketing",
-                    "description": "Maximize lifetime value. We build automated WhatsApp and email journeys that bring your customers back—again and again."
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/ecommerce-marketing/insight-5.png",
-                    "title": "Social Media Marketing",
-                    "description": "Build a brand your customers love. We create scroll-stopping content that engages, educates, and nudges your audience toward purchase."
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/ecommerce-marketing/insight-6.png",
-                    "title": "Analytics & Attribution",
-                    "description": "Know what’s working, where, and why. We set up advanced tracking, GA4, and conversion APIs to give you full-funnel clarity."
-                }
-            ]
-        },
-
-        "expectations": {
-            "h3": "What you can expect from E-commerce Marketing",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-1.png",
-                    "title": "Targeted Approach"
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-2.png",
-                    "title": "Immense Reach"
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-3.png",
-                    "title": "Cost-Effectiveness"
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-4.png",
-                    "title": "High Scalability"
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-5.png",
-                    "title": "Data-Driven Insights"
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/ecommerce-marketing/expectation-6.png",
-                    "title": "Enhanced Customer Experience"
-                }
-            ]
-        },
-
-        "faqs": {
-            "h3": "FAQs related to our SSM Services",
-            "list": [
-                {
-                    "id": 1,
-                    "title": "Why should I choose Socialee as my ecommerce marketing partner?",
-                    "content": "Socialee is a trusted ecommerce digital marketing agency in India with a proven track record of delivering exceptional results. We combine our expertise in creative ads, refined targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation to drive your e-commerce success. Our data-driven strategies and dedicated team ensure that your marketing efforts yield maximum ROI."
-                },
-                {
-                    "id": 2,
-                    "title": "How can ecommerce marketing services benefit my business?",
-                    "content": "Ecommerce SEO services help you increase brand visibility, drive targeted traffic, boost conversions, and improve overall business performance. By leveraging impactful ad copies, precise targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation, you can reach your target audience effectively, optimize your marketing budget, and enhance the customer experience, resulting in improved sales and revenue."
-                },
-                {
-                    "id": 3,
-                    "title": "How long does it take to see results from ecommerce marketing campaigns? ",
-                    "content": "The timeframe to see results from e-commerce marketing campaigns may vary depending on various factors such as your industry, competition, campaign objectives, and the effectiveness of your marketing strategies. While some results can be achieved in the short term, e-commerce marketing is an ongoing process that requires continuous optimization and adaptation. Our team works diligently to deliver results as quickly as possible, and we provide regular reports to track the progress of your campaigns."
-                },
-                {
-                    "id": 4,
-                    "title": "How do you measure the success of ecommerce marketing campaigns?",
-                    "content": "We measure the success of e-commerce marketing campaigns through various key performance indicators (KPIs) such as website traffic, click-through rates (CTR), conversion rates, revenue generated, return on ad spend (ROAS), and customer lifetime value (LTV). Our team uses advanced analytics tools to track and analyse these metrics, providing you with comprehensive reports and insights into the performance of your campaigns."
-                },
-                {
-                    "id": 5,
-                    "title": "Can you handle e-commerce marketing for businesses outside of India?",
-                    "content": "Absolutely! While we are based in India, we have the expertise and capabilities to provide e-commerce marketing services to businesses worldwide. We understand the global e-commerce landscape and tailor our strategies to suit your specific target market and audience.  Elevate your e-commerce business with Socialee’s comprehensive e-commerce advertising services. Our team of experts is ready to create a tailored strategy that drives traffic, increases conversions, and grows your online sales. Contact us today to take your e-commerce business to new heights "
-                }
-            ]
-        },
-
-        "startProject": {
-            "h3": "Get in touch with us for E-commerce Marketing Services",
-            "label": "Start a Project"
-        }
+    "approach": {
+      "h3": "Our Approach",
+      "p": "At Socialee, our prime focus in social media marketing is community-building efforts that revolve around enhancing branding excellence. We understand the power of cultivating a strong and engaged community for our clients.\n\nWith our expertise in branding, content curation, and interactive content creation, we strategically collaborate with talented content creators to craft captivating experiences that resonate with your target audience. By fostering meaningful connections, driving conversations, and curating compelling content, we help build an authentic and loyal community around your brand."
     },
 
-    "managementCampaign": {
-          "banner":{
-            "src": "/assets/images/jpg/services/management-campaign-banner.jpg",
-            "alt": "Management campaign banner"
+    "insights": {
+      "h3": "Social Media Marketing",
+      "p": "Welcome to the hub of strategic and engaging Social Media Management services at Socialee.\n\nOur mission is to cultivate a vibrant digital presence for your brand, foster authentic connections and elevate your online identity.",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/social-media-marketing/insight-1.png",
+          "title": "Social Media Audit",
+          "description": "Thorough evaluation of your current social media presence to identify strengths, weaknesses, and areas for improvement, providing valuable insights for an effective strategy."
         },
-
-        "hero": {
-            "h1": "Drive Business Growth with Our Management Campaign Services",
-            "p": "At [Your Company], we approach management with a results-driven strategy, ensuring your business operations, teams, and goals align seamlessly for sustainable growth. Our focus is on delivering structured solutions that empower organizations to perform efficiently, maximize productivity, and achieve measurable success."
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/social-media-marketing/insight-2.png",
+          "title": "Community Engagement",
+          "description": "Thorough evaluation of your current social media presence to identify strengths, weaknesses, and areas for improvement, providing valuable insights for an effective strategy."
         },
-
-        "approach": {
-            "h3": "Our Approach",
-            "p": "n a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee, we curate content that resonates with diverse audiences on different platforms, ensuring better results."
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/social-media-marketing/insight-3.png",
+          "title": "Content Creation a Distribution",
+          "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
         },
-
-        "insights": {
-            "h3": "Management Campaign",
-            "p": "",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/management-campaign/insight-1.png",
-                    "title": "Strategic Planning & Consulting",
-                    "description": "Expert guidance to create effective business strategies tailored to your company’s goals, market position, and long-term vision. We help streamline decision-making, set clear objectives, and guide your business toward sustainable growth."
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/management-campaign/insight-2.png",
-                    "title": "Performance Audits",
-                    "description": "Comprehensive evaluation of your organization’s structure, processes, and workflows. We identify strengths, weaknesses, and areas for improvement to ensure peak efficiency and stronger outcomes."
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/management-campaign/insight-3.png",
-                    "title": "Team Development & Leadership Training",
-                    "description": "Customized programs to build stronger teams and develop leadership capabilities. From communication to conflict resolution, we ensure your workforce is empowered to achieve more."
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/management-campaign/insight-4.png",
-                    "title": "Operational Optimization",
-                    "description": "Analyzing and refining internal processes to improve efficiency, reduce costs, and enhance workflow. We help you implement systems that support scalability and long-term success."
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/management-campaign/insight-5.png",
-                    "title": "Change Management",
-                    "description": "Smoothly navigating organizational transitions with strategies that mLong-Term Business Growthinimize disruption and boost adaptability. We ensure employees are aligned, engaged, and ready for transformation."
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/management-campaign/insight-6.png",
-                    "title": "Project Management Solutions",
-                    "description": "From planning to execution, we provide structured project management support, ensuring timely delivery, efficient resource allocation, and successful outcomes."
-                }
-            ]
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/social-media-marketing/insight-4.png",
+          "title": "Social Media Strategy",
+          "description": "Develop a customized roadmap outlining goals, target audience, content themes, and tactics to achieve optimal engagement and meet your business objectives. "
         },
-
-        "expectations": {
-            "h3": "What you can expect from Management Services",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/management-campaign/expectation-1.png",
-                    "title": "Streamlined Operations"
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/management-campaign/expectation-2.png",
-                    "title": "Improved Team Productivity"
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/management-campaign/expectation-3.png",
-                    "title": "Stronger Leadership & Decision Making"
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/management-campaign/expectation-4.png",
-                    "title": "Long-Term Business Growth"
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/management-campaign/expectation-5.png",
-                    "title": "Enhanced Organizational Efficiency"
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/management-campaign/expectation-6.png",
-                    "title": "Competitive Advantage"
-                }
-            ]
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/social-media-marketing/insight-5.png",
+          "title": "Analytics and Reporting",
+          "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
         },
-
-        "faqs": {
-            "h3": "FAQs related to our SSM Services",
-            "list": [
-                {
-                    "id": 1,
-                    "title": "Why should I choose Socialee as my ecommerce marketing partner?",
-                    "content": "Socialee is a trusted ecommerce digital marketing agency in India with a proven track record of delivering exceptional results. We combine our expertise in creative ads, refined targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation to drive your e-commerce success. Our data-driven strategies and dedicated team ensure that your marketing efforts yield maximum ROI."
-                },
-                {
-                    "id": 2,
-                    "title": "How can ecommerce marketing services benefit my business?",
-                    "content": "Ecommerce SEO services help you increase brand visibility, drive targeted traffic, boost conversions, and improve overall business performance. By leveraging impactful ad copies, precise targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation, you can reach your target audience effectively, optimize your marketing budget, and enhance the customer experience, resulting in improved sales and revenue."
-                },
-                {
-                    "id": 3,
-                    "title": "How long does it take to see results from ecommerce marketing campaigns? ",
-                    "content": "The timeframe to see results from e-commerce marketing campaigns may vary depending on various factors such as your industry, competition, campaign objectives, and the effectiveness of your marketing strategies. While some results can be achieved in the short term, e-commerce marketing is an ongoing process that requires continuous optimization and adaptation. Our team works diligently to deliver results as quickly as possible, and we provide regular reports to track the progress of your campaigns."
-                },
-                {
-                    "id": 4,
-                    "title": "How do you measure the success of ecommerce marketing campaigns?",
-                    "content": "We measure the success of e-commerce marketing campaigns through various key performance indicators (KPIs) such as website traffic, click-through rates (CTR), conversion rates, revenue generated, return on ad spend (ROAS), and customer lifetime value (LTV). Our team uses advanced analytics tools to track and analyse these metrics, providing you with comprehensive reports and insights into the performance of your campaigns."
-                },
-                {
-                    "id": 5,
-                    "title": "Can you handle e-commerce marketing for businesses outside of India?",
-                    "content": "Absolutely! While we are based in India, we have the expertise and capabilities to provide e-commerce marketing services to businesses worldwide. We understand the global e-commerce landscape and tailor our strategies to suit your specific target market and audience.  Elevate your e-commerce business with Socialee’s comprehensive e-commerce advertising services. Our team of experts is ready to create a tailored strategy that drives traffic, increases conversions, and grows your online sales. Contact us today to take your e-commerce business to new heights "
-                }
-            ]
-        },
-
-        "startProject": {
-            "h3": "Get in touch with us for Management Campaign Services",
-            "label": "Start a Project"
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/social-media-marketing/insight-6.png",
+          "title": "Account Setup",
+          "description": "Create and optimize social media accounts across relevant platforms, ensuring consistent branding, keyword optimization, and strategic integration of business information."
         }
+      ]
     },
 
-    "seo": {
-        "banner":{
-            "src": "/assets/images/jpg/services/seo-banner.jpg",
-            "alt": "Seo banner"
+    "expectations": {
+      "h3": "What you can expect fromSocial Media Marketing",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/social-media-marketing/expectation-1.png",
+          "title": "Widespread Reach"
         },
-
-        "hero": {
-            "h1": "Drive Organic growth on your website with Our SEO Agency",
-            "p": "At Socialee, our approach to performance marketing is rooted in a deep understanding of your customer's decision-making process and the strategic orchestration of touchpoints.\n\nWe begin by delving into the intricacies of your target audience's preferences, needs, and behaviours, unravelling the threads of their purchasing journey. This foundational insight allows us to craft a tailored strategy that speaks directly to their desires at each touchpoint."
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/social-media-marketing/expectation-2.png",
+          "title": "Higher Brand Visibility"
         },
-
-        "approach": {
-            "h3": "Our Approach",
-            "p": "At Socialee, we approach SEO with a unique philosophy - we believe that SEO is not just about pleasing search engines but, more importantly, about creating valuable content that caters to the needs of your audience. Our focus is on delivering a user-centric experience that keeps your visitors engaged and informed, making your website a one-stop destination for their queries."
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/social-media-marketing/expectation-3.png",
+          "title": "Higher Engagement"
         },
-
-        "insights": {
-            "h3": "SEO Agency",
-            "p": "",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/seo/insight-1.png",
-                    "title": "SEO Consulting and Strategy",
-                    "description": "Expert guidance on developing effective SEO strategies tailored to your business goals, target audience, and industry trends to improve organic search visibility and drive website traffic."
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/seo/insight-2.png",
-                    "title": "SEO Audits",
-                    "description": "Comprehensive evaluation of your website's SEO health, identifying strengths, weaknesses, and areas for improvement to enhance search engine rankings and overall website performance."
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/seo/insight-3.png",
-                    "title": "Keyword Research",
-                    "description": "In-depth research to identify relevant keywords and search phrases that align with your target audience's search intent, optimizing your website's content for better organic search rankings. "
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/seo/insight-4.png",
-                    "title": "On-Page Optimization",
-                    "description": "Optimizing webpage elements such as titles, headings, meta tags, and content structure to improve keyword relevance, user experience, and search engine crawlability in Google search engine."
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/seo/insight-5.png",
-                    "title": "Technical SEO",
-                    "description": "Analysing and optimizing technical aspects of your website, including site speed, mobile-friendliness, URL structure, and website indexing to ensure search engines can effectively crawl and index your site."
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/seo/insight-6.png",
-                    "title": "Content Optimization",
-                    "description": "Enhancing the quality, relevance, and keyword integration within your website's content, ensuring it aligns with user intent, engages readers, and ranks well in search engine results for better organic growth."
-                }
-            ]
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/social-media-marketing/expectation-4.png",
+          "title": "Viral Potential"
         },
-
-        "expectations": {
-            "h3": "What you can expect from SEO Services ",
-            "list": [
-                {
-                    "id": 1,
-                    "src": "/assets/images/png/services/seo/expectation-1.png",
-                    "title": "Increased Ranking in SERPs"
-                },
-                {
-                    "id": 2,
-                    "src": "/assets/images/png/services/seo/expectation-2.png",
-                    "title": "Targeted Traffic"
-                },
-                {
-                    "id": 3,
-                    "src": "/assets/images/png/services/seo/expectation-3.png",
-                    "title": "Credibility and Trust"
-                },
-                {
-                    "id": 4,
-                    "src": "/assets/images/png/services/seo/expectation-4.png",
-                    "title": "Long-Term Effects"
-                },
-                {
-                    "id": 5,
-                    "src": "/assets/images/png/services/seo/expectation-5.png",
-                    "title": "Enhanced User Experience"
-                },
-                {
-                    "id": 6,
-                    "src": "/assets/images/png/services/seo/expectation-6.png",
-                    "title": "Competitive Advantage"
-                }
-            ]
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/social-media-marketing/expectation-5.png",
+          "title": "Real-time Feedback"
         },
-
-        "faqs": {
-            "h3": "FAQs    related to our SEO Services",
-            "list": [
-                {
-                    "id": 1,
-                    "title": "Why Choose Socialee as Your SEO Partner?",
-                    "content": "Socialee is a trusted ecommerce digital marketing agency in India with a proven track record of delivering exceptional results. We combine our expertise in creative ads, refined targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation to drive your e-commerce success. Our data-driven strategies and dedicated team ensure that your marketing efforts yield maximum ROI."
-                },
-                {
-                    "id": 2,
-                    "title": "How can you incorporate SEO into our overall marketing strategy?",
-                    "content": "SEO is an integral part of a comprehensive content marketing strategy. We align our SEO plan with your content marketing plan to ensure synergy and maximize results."
-                },
-                {
-                    "id": 3,
-                    "title": "How much does an SEO agency cost? ",
-                    "content": "The cost of our SEO services varies based on factors such as your business type, target market, keyword competition, and scope of work. We conduct a thorough requirement gathering session and perform an SEO audit to provide accurate pricing based on your specific needs. "
-                },
-                {
-                    "id": 4,
-                    "title": "What results can we expect with SEO services?",
-                    "content": "While rankings are important, we believe that growth in organic traffic and organic conversions are the best way to measure SEO performance. Our KPIs are 1. Rankings 2. Organic Impression 3. Organic Traffic 4. Organic Conversions."
-                },
-                {
-                    "id": 5,
-                    "title": "How much time it takes to rank on the 1st page?",
-                    "content": "Ranking on the first page of search engine results can vary based on factors like competition, keyword difficulty, and website authority. While we aim for noticeable improvements within months, SEO is a long-term strategy. It requires ongoing effort, optimization, and adaptation to algorithm changes. We work closely with you to develop a customized SEO approach and provide regular reporting to track progress and make informed optimizations. While we can’t guarantee specific timelines, our goal is to maximize visibility, increase organic traffic, and drive long-term results for your online presence. Our Performance Marketing department also helps achieve these goals."
-                }
-            ]
-        },
-
-        "startProject": {
-            "h3": "Get in touch with us for SEO Services",
-            "label": "Start a Project"
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/social-media-marketing/expectation-6.png",
+          "title": "Vernacular Content"
         }
+      ]
+    },
+
+    "faqs": {
+      "h3": "FAQs related to our SSM Services",
+      "list": [
+        {
+          "id": 1,
+          "title": "How can Socialee help me get value from social media marketing?",
+          "content": "Socialee stands out as a focused company (doing SMM since 2014), prioritizing quality over quantity. Instead of trying to cover everything, we excel at our limited services. We embrace bold and innovative ideas fearlessly, bringing fresh perspectives to the table. Our young and dynamic team (50+ team members) is dedicated to delivering exceptional results and helping your brand thrive in the digital landscape."
+        },
+        {
+          "id": 2,
+          "title": "How do you measure the success of social media campaigns?",
+          "content": "Our team tracks key performance indicators (KPIs) such as engagement rates, reach, website traffic, and conversions. Using advanced analytics tools, we provide detailed reports with actionable insights, allowing us to continually optimize your social media strategy for optimal results."
+        },
+        {
+          "id": 3,
+          "title": "Why should I choose Socialee as my social media marketing agency?",
+          "content": "Socialee stands out as a focused company (doing SMM since 2014), prioritizing quality over quantity. Instead of trying to cover everything, we excel at our limited services. We embrace bold and innovative ideas fearlessly, bringing fresh perspectives to the table. Our young and dynamic team (50+ team members) is dedicated to delivering exceptional results and helping your brand thrive in the digital landscape."
+        },
+        {
+          "id": 4,
+          "title": "How do you initiate engagement with a new client?",
+          "content": "We start by conducting a brand brief call to gain insights into your target audience, key offerings, USPs, and positioning. Through detailed research, we identify the most suitable social media platforms aligned with your target audience’s preferences. We then share a monthly plan of action based on our findings and recommendations."
+        }
+      ]
+    },
+
+    "startProject": {
+      "h3": "Get in touch with us for Social Media Marketing Services",
+      "label": "Start a Project"
     }
+  },
+
+  "performanceMarketing": {
+    "banner": {
+      "src": "/assets/images/jpg/services/performance-marketing-banner.jpg",
+      "alt": "Performance marketing banner"
+    },
+
+    "hero": {
+      "h1": "Performance Marketing PPC Services in NEPAL",
+      "p": "At Socialee, our approach to performance marketing is rooted in a deep understanding of your customer's decision-making process and the strategic orchestration of touchpoints.\n\nWe begin by delving into the intricacies of your target audience's preferences, needs, and behaviours, unravelling the threads of their purchasing journey. This foundational insight allows us to craft a tailored strategy that speaks directly to their desires at each touchpoint."
+    },
+
+    "approach": {
+      "h3": "Our Approach",
+      "p": "n a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee, we curate content that resonates with diverse audiences on different platforms, ensuring better results."
+    },
+
+    "insights": {
+      "h3": "Performance Marketing",
+      "p": "",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/performance-marketing/insight-1.png",
+          "title": "Building Performance Marketing Strategy",
+          "description": "Develop customized strategies that align with your business goals, target audience, and industry trends to maximize online visibility and drive measurable results."
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/performance-marketing/insight-2.png",
+          "title": "Digital Marketing Campaign",
+          "description": "Continuously monitor and optimize media spending to ensure efficient allocation of budget, reduce acquisition costs, and maximize ROI for your digital marketing campaigns."
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/performance-marketing/insight-3.png",
+          "title": "Optimizing Media Spend & CAC",
+          "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/performance-marketing/insight-4.png",
+          "title": "Campaign Strategy and Planning",
+          "description": "Develop campaign strategies & tactical plans, including content creation, ad targeting, & campaign timelines, to drive campaign success and achieve objectives."
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/performance-marketing/insight-5.png",
+          "title": "Data Analytics andReporting",
+          "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/performance-marketing/insight-6.png",
+          "title": "Performance Marketing",
+          "description": "Utilize advanced analytics to monitor key performance indicators, track audience behaviour, & gather insights, enabling data-driven decisions to optimize SMM campaigns."
+        }
+      ]
+    },
+
+    "expectations": {
+      "h3": "What you can expect from Performance Marketing",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/performance-marketing/expectation-1.png",
+          "title": "Targeted Approach"
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/performance-marketing/expectation-2.png",
+          "title": "Measurable Result"
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/performance-marketing/expectation-3.png",
+          "title": "Cost-Effectiveness"
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/performance-marketing/expectation-4.png",
+          "title": "Flexibility and Scalability"
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/performance-marketing/expectation-5.png",
+          "title": "Transparency and Accountability"
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/performance-marketing/expectation-6.png",
+          "title": "Higher ROI"
+        }
+      ]
+    },
+
+    "faqs": {
+      "h3": "FAQs related to our SSM Services",
+      "list": [
+        {
+          "id": 1,
+          "title": "What is performance marketing and how does it differ from traditional marketing?",
+          "content": "Performance marketing is a results-driven approach where advertisers only pay when specific actions are taken, such as clicks, conversions, or leads. Unlike traditional content marketing, google ads management services or Facebook ads management services focus on measurable outcomes rather than solely on brand awareness or impressions. "
+        },
+        {
+          "id": 2,
+          "title": "What are the key benefits of hiring a performance marketing agency for my business?",
+          "content": "Performance marketing offers several benefits, including precise targeting, cost-effectiveness, transparent ROI tracking, scalability, and the ability to optimize campaigns based on real-time data. It allows you to maximize your marketing budget by driving actual results and ensuring a higher return on investment. "
+        },
+        {
+          "id": 3,
+          "title": "How do you determine the right performance marketing channels for my business?",
+          "content": "We conduct thorough research and analysis of your target audience, industry, and marketing goals to identify the most relevant performance marketing channels. This includes considering factors such as audience demographics, platform effectiveness, and industry benchmarks to ensure the best channel selection for optimal campaign performance."
+        },
+        {
+          "id": 4,
+          "title": "How do you measure the success of performance marketing campaigns?",
+          "content": "We use advanced tracking and analytics tools to measure key performance indicators (KPIs) such as click-through rates, conversions, cost per acquisition, and return on ad spend. These metrics providevaluable insights into campaign performance and enable us to make data-driven optimizations for ongoing success. "
+        },
+        {
+          "id": 5,
+          "title": "How often will we receive reports on our brand’s performance marketing campaigns?",
+          "content": "We provide regular and transparent reporting on the performance of your campaigns. Depending on your preference and campaign duration, we can offer weekly, monthly, or customized reporting intervals. These reports will include comprehensive insights, key metrics, and actionable recommendations to optimize your performance marketing efforts."
+        }
+      ]
+    },
+
+    "startProject": {
+      "h3": "Get in touch with us for Performance Marketing Services",
+      "label": "Start a Project"
+    }
+  },
+
+  "eCommerceMarketing": {
+    "banner": {
+      "src": "/assets/images/jpg/services/ecommerce-marketing-banner.jpg",
+      "alt": "E-commerce banner"
+    },
+
+    "hero": {
+      "h1": "Ace the Ecommerce game with Our Ecommerce Marketing Agency",
+      "p": "In the ever-evolving world of online shopping, effective e-commerce marketing is crucial for driving traffic, increasing conversions, and maximizing revenue. \n\nSocialee specializes in optimizing eCommerce marketing through tailored services that generate tangible business results. With our expertise, we strategically implement customized solutions to increase sales, enhance the user experience, and maximize return on investment. By leveraging data-driven strategies, innovative e-commerce marketing services, and seamless user journeys, we empower businesses to achieve unparalleled success in the competitive eCommerce landscape. "
+    },
+
+    "approach": {
+      "h3": "Our Approach",
+      "p": "n a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee, we curate content that resonates with diverse audiences on different platforms, ensuring better results."
+    },
+
+    "insights": {
+      "h3": "E-commerce Marketing",
+      "p": "",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/ecommerce-marketing/insight-1.png",
+          "title": "E-commerce Strategy",
+          "description": "Growth starts with the right plan. From market positioning to channel mix, we craft custom roadmaps aligned with your goals and audience."
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/ecommerce-marketing/insight-2.png",
+          "title": "Performance Marketing",
+          "description": "Turn more visitors into buyers.From product page tweaks to checkout flow fixes, we use data to unlock more revenue per session."
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/ecommerce-marketing/insight-3.png",
+          "title": "Conversion Rate Optimization (CRO)",
+          "description": "Produce high-quality, tailored content that resonates with your target audience, and effectively distribute it across social media platforms to increase visibility and engagement."
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/ecommerce-marketing/insight-4.png",
+          "title": "Retention Marketing",
+          "description": "Maximize lifetime value. We build automated WhatsApp and email journeys that bring your customers back—again and again."
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/ecommerce-marketing/insight-5.png",
+          "title": "Social Media Marketing",
+          "description": "Build a brand your customers love. We create scroll-stopping content that engages, educates, and nudges your audience toward purchase."
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/ecommerce-marketing/insight-6.png",
+          "title": "Analytics & Attribution",
+          "description": "Know what’s working, where, and why. We set up advanced tracking, GA4, and conversion APIs to give you full-funnel clarity."
+        }
+      ]
+    },
+
+    "expectations": {
+      "h3": "What you can expect from E-commerce Marketing",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/ecommerce-marketing/expectation-1.png",
+          "title": "Targeted Approach"
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/ecommerce-marketing/expectation-2.png",
+          "title": "Immense Reach"
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/ecommerce-marketing/expectation-3.png",
+          "title": "Cost-Effectiveness"
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/ecommerce-marketing/expectation-4.png",
+          "title": "High Scalability"
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/ecommerce-marketing/expectation-5.png",
+          "title": "Data-Driven Insights"
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/ecommerce-marketing/expectation-6.png",
+          "title": "Enhanced Customer Experience"
+        }
+      ]
+    },
+
+    "faqs": {
+      "h3": "FAQs related to our SSM Services",
+      "list": [
+        {
+          "id": 1,
+          "title": "Why should I choose Socialee as my ecommerce marketing partner?",
+          "content": "Socialee is a trusted ecommerce digital marketing agency in India with a proven track record of delivering exceptional results. We combine our expertise in creative ads, refined targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation to drive your e-commerce success. Our data-driven strategies and dedicated team ensure that your marketing efforts yield maximum ROI."
+        },
+        {
+          "id": 2,
+          "title": "How can ecommerce marketing services benefit my business?",
+          "content": "Ecommerce SEO services help you increase brand visibility, drive targeted traffic, boost conversions, and improve overall business performance. By leveraging impactful ad copies, precise targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation, you can reach your target audience effectively, optimize your marketing budget, and enhance the customer experience, resulting in improved sales and revenue."
+        },
+        {
+          "id": 3,
+          "title": "How long does it take to see results from ecommerce marketing campaigns? ",
+          "content": "The timeframe to see results from e-commerce marketing campaigns may vary depending on various factors such as your industry, competition, campaign objectives, and the effectiveness of your marketing strategies. While some results can be achieved in the short term, e-commerce marketing is an ongoing process that requires continuous optimization and adaptation. Our team works diligently to deliver results as quickly as possible, and we provide regular reports to track the progress of your campaigns."
+        },
+        {
+          "id": 4,
+          "title": "How do you measure the success of ecommerce marketing campaigns?",
+          "content": "We measure the success of e-commerce marketing campaigns through various key performance indicators (KPIs) such as website traffic, click-through rates (CTR), conversion rates, revenue generated, return on ad spend (ROAS), and customer lifetime value (LTV). Our team uses advanced analytics tools to track and analyse these metrics, providing you with comprehensive reports and insights into the performance of your campaigns."
+        },
+        {
+          "id": 5,
+          "title": "Can you handle e-commerce marketing for businesses outside of India?",
+          "content": "Absolutely! While we are based in India, we have the expertise and capabilities to provide e-commerce marketing services to businesses worldwide. We understand the global e-commerce landscape and tailor our strategies to suit your specific target market and audience.  Elevate your e-commerce business with Socialee’s comprehensive e-commerce advertising services. Our team of experts is ready to create a tailored strategy that drives traffic, increases conversions, and grows your online sales. Contact us today to take your e-commerce business to new heights "
+        }
+      ]
+    },
+
+    "startProject": {
+      "h3": "Get in touch with us for E-commerce Marketing Services",
+      "label": "Start a Project"
+    }
+  },
+
+  "campaignManagement": {
+    "banner": {
+      "src": "/assets/images/jpg/services/campaign-management-banner.jpg",
+      "alt": "Campaign management banner"
+    },
+
+    "hero": {
+      "h1": "Drive Business Growth with Our Campaign Management Services",
+      "p": "At [Your Company], we approach management with a results-driven strategy, ensuring your business operations, teams, and goals align seamlessly for sustainable growth. Our focus is on delivering structured solutions that empower organizations to perform efficiently, maximize productivity, and achieve measurable success."
+    },
+
+    "approach": {
+      "h3": "Our Approach",
+      "p": "n a world where paid reach dominates, Socialee stands out with its meticulously crafted Social Media Marketing strategies. With our deeply rooted expertise, we prioritize organic reach, ensuring unparalleled engagement, and cultivating a loyal follower base, keeping brand values and tonality intact.\n\nOrganic social media reach can be frustrating for brands, but it's all about using the right approach. At Socialee, we curate content that resonates with diverse audiences on different platforms, ensuring better results."
+    },
+
+    "insights": {
+      "h3": "Campaign Management",
+      "p": "",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/campaign-management/insight-1.png",
+          "title": "Strategic Planning & Consulting",
+          "description": "Expert guidance to create effective business strategies tailored to your company’s goals, market position, and long-term vision. We help streamline decision-making, set clear objectives, and guide your business toward sustainable growth."
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/campaign-management/insight-2.png",
+          "title": "Performance Audits",
+          "description": "Comprehensive evaluation of your organization’s structure, processes, and workflows. We identify strengths, weaknesses, and areas for improvement to ensure peak efficiency and stronger outcomes."
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/campaign-management/insight-3.png",
+          "title": "Team Development & Leadership Training",
+          "description": "Customized programs to build stronger teams and develop leadership capabilities. From communication to conflict resolution, we ensure your workforce is empowered to achieve more."
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/campaign-management/insight-4.png",
+          "title": "Operational Optimization",
+          "description": "Analyzing and refining internal processes to improve efficiency, reduce costs, and enhance workflow. We help you implement systems that support scalability and long-term success."
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/campaign-management/insight-5.png",
+          "title": "Change Management",
+          "description": "Smoothly navigating organizational transitions with strategies that mLong-Term Business Growthinimize disruption and boost adaptability. We ensure employees are aligned, engaged, and ready for transformation."
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/campaign-management/insight-6.png",
+          "title": "Project Management Solutions",
+          "description": "From planning to execution, we provide structured project management support, ensuring timely delivery, efficient resource allocation, and successful outcomes."
+        }
+      ]
+    },
+
+    "expectations": {
+      "h3": "What you can expect from Management Services",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/campaign-management/expectation-1.png",
+          "title": "Streamlined Operations"
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/campaign-management/expectation-2.png",
+          "title": "Improved Team Productivity"
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/campaign-management/expectation-3.png",
+          "title": "Stronger Leadership & Decision Making"
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/campaign-management/expectation-4.png",
+          "title": "Long-Term Business Growth"
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/campaign-management/expectation-5.png",
+          "title": "Enhanced Organizational Efficiency"
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/campaign-management/expectation-6.png",
+          "title": "Competitive Advantage"
+        }
+      ]
+    },
+
+    "faqs": {
+      "h3": "FAQs related to our SSM Services",
+      "list": [
+        {
+          "id": 1,
+          "title": "Why should I choose Socialee as my ecommerce marketing partner?",
+          "content": "Socialee is a trusted ecommerce digital marketing agency in India with a proven track record of delivering exceptional results. We combine our expertise in creative ads, refined targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation to drive your e-commerce success. Our data-driven strategies and dedicated team ensure that your marketing efforts yield maximum ROI."
+        },
+        {
+          "id": 2,
+          "title": "How can ecommerce marketing services benefit my business?",
+          "content": "Ecommerce SEO services help you increase brand visibility, drive targeted traffic, boost conversions, and improve overall business performance. By leveraging impactful ad copies, precise targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation, you can reach your target audience effectively, optimize your marketing budget, and enhance the customer experience, resulting in improved sales and revenue."
+        },
+        {
+          "id": 3,
+          "title": "How long does it take to see results from ecommerce marketing campaigns? ",
+          "content": "The timeframe to see results from e-commerce marketing campaigns may vary depending on various factors such as your industry, competition, campaign objectives, and the effectiveness of your marketing strategies. While some results can be achieved in the short term, e-commerce marketing is an ongoing process that requires continuous optimization and adaptation. Our team works diligently to deliver results as quickly as possible, and we provide regular reports to track the progress of your campaigns."
+        },
+        {
+          "id": 4,
+          "title": "How do you measure the success of ecommerce marketing campaigns?",
+          "content": "We measure the success of e-commerce marketing campaigns through various key performance indicators (KPIs) such as website traffic, click-through rates (CTR), conversion rates, revenue generated, return on ad spend (ROAS), and customer lifetime value (LTV). Our team uses advanced analytics tools to track and analyse these metrics, providing you with comprehensive reports and insights into the performance of your campaigns."
+        },
+        {
+          "id": 5,
+          "title": "Can you handle e-commerce marketing for businesses outside of India?",
+          "content": "Absolutely! While we are based in India, we have the expertise and capabilities to provide e-commerce marketing services to businesses worldwide. We understand the global e-commerce landscape and tailor our strategies to suit your specific target market and audience.  Elevate your e-commerce business with Socialee’s comprehensive e-commerce advertising services. Our team of experts is ready to create a tailored strategy that drives traffic, increases conversions, and grows your online sales. Contact us today to take your e-commerce business to new heights "
+        }
+      ]
+    },
+
+    "startProject": {
+      "h3": "Get in touch with us for Campaign Management Services",
+      "label": "Start a Project"
+    }
+  },
+
+  "seo": {
+    "banner": {
+      "src": "/assets/images/jpg/services/seo-banner.jpg",
+      "alt": "Seo banner"
+    },
+
+    "hero": {
+      "h1": "Drive Organic growth on your website with Our SEO Agency",
+      "p": "At Socialee, our approach to performance marketing is rooted in a deep understanding of your customer's decision-making process and the strategic orchestration of touchpoints.\n\nWe begin by delving into the intricacies of your target audience's preferences, needs, and behaviours, unravelling the threads of their purchasing journey. This foundational insight allows us to craft a tailored strategy that speaks directly to their desires at each touchpoint."
+    },
+
+    "approach": {
+      "h3": "Our Approach",
+      "p": "At Socialee, we approach SEO with a unique philosophy - we believe that SEO is not just about pleasing search engines but, more importantly, about creating valuable content that caters to the needs of your audience. Our focus is on delivering a user-centric experience that keeps your visitors engaged and informed, making your website a one-stop destination for their queries."
+    },
+
+    "insights": {
+      "h3": "SEO Agency",
+      "p": "",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/seo/insight-1.png",
+          "title": "SEO Consulting and Strategy",
+          "description": "Expert guidance on developing effective SEO strategies tailored to your business goals, target audience, and industry trends to improve organic search visibility and drive website traffic."
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/seo/insight-2.png",
+          "title": "SEO Audits",
+          "description": "Comprehensive evaluation of your website's SEO health, identifying strengths, weaknesses, and areas for improvement to enhance search engine rankings and overall website performance."
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/seo/insight-3.png",
+          "title": "Keyword Research",
+          "description": "In-depth research to identify relevant keywords and search phrases that align with your target audience's search intent, optimizing your website's content for better organic search rankings. "
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/seo/insight-4.png",
+          "title": "On-Page Optimization",
+          "description": "Optimizing webpage elements such as titles, headings, meta tags, and content structure to improve keyword relevance, user experience, and search engine crawlability in Google search engine."
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/seo/insight-5.png",
+          "title": "Technical SEO",
+          "description": "Analysing and optimizing technical aspects of your website, including site speed, mobile-friendliness, URL structure, and website indexing to ensure search engines can effectively crawl and index your site."
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/seo/insight-6.png",
+          "title": "Content Optimization",
+          "description": "Enhancing the quality, relevance, and keyword integration within your website's content, ensuring it aligns with user intent, engages readers, and ranks well in search engine results for better organic growth."
+        }
+      ]
+    },
+
+    "expectations": {
+      "h3": "What you can expect from SEO Services",
+      "list": [
+        {
+          "id": 1,
+          "src": "/assets/images/png/services/seo/expectation-1.png",
+          "title": "Increased Ranking in SERPs"
+        },
+        {
+          "id": 2,
+          "src": "/assets/images/png/services/seo/expectation-2.png",
+          "title": "Targeted Traffic"
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/png/services/seo/expectation-3.png",
+          "title": "Credibility and Trust"
+        },
+        {
+          "id": 4,
+          "src": "/assets/images/png/services/seo/expectation-4.png",
+          "title": "Long-Term Effects"
+        },
+        {
+          "id": 5,
+          "src": "/assets/images/png/services/seo/expectation-5.png",
+          "title": "Enhanced User Experience"
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/png/services/seo/expectation-6.png",
+          "title": "Competitive Advantage"
+        }
+      ]
+    },
+
+    "faqs": {
+      "h3": "FAQs    related to our SEO Services",
+      "list": [
+        {
+          "id": 1,
+          "title": "Why Choose Socialee as Your SEO Partner?",
+          "content": "Socialee is a trusted ecommerce digital marketing agency in India with a proven track record of delivering exceptional results. We combine our expertise in creative ads, refined targeting, right attribution, media mix optimization, conversion rate optimization, and marketing automation to drive your e-commerce success. Our data-driven strategies and dedicated team ensure that your marketing efforts yield maximum ROI."
+        },
+        {
+          "id": 2,
+          "title": "How can you incorporate SEO into our overall marketing strategy?",
+          "content": "SEO is an integral part of a comprehensive content marketing strategy. We align our SEO plan with your content marketing plan to ensure synergy and maximize results."
+        },
+        {
+          "id": 3,
+          "title": "How much does an SEO agency cost? ",
+          "content": "The cost of our SEO services varies based on factors such as your business type, target market, keyword competition, and scope of work. We conduct a thorough requirement gathering session and perform an SEO audit to provide accurate pricing based on your specific needs. "
+        },
+        {
+          "id": 4,
+          "title": "What results can we expect with SEO services?",
+          "content": "While rankings are important, we believe that growth in organic traffic and organic conversions are the best way to measure SEO performance. Our KPIs are 1. Rankings 2. Organic Impression 3. Organic Traffic 4. Organic Conversions."
+        },
+        {
+          "id": 5,
+          "title": "How much time it takes to rank on the 1st page?",
+          "content": "Ranking on the first page of search engine results can vary based on factors like competition, keyword difficulty, and website authority. While we aim for noticeable improvements within months, SEO is a long-term strategy. It requires ongoing effort, optimization, and adaptation to algorithm changes. We work closely with you to develop a customized SEO approach and provide regular reporting to track progress and make informed optimizations. While we can’t guarantee specific timelines, our goal is to maximize visibility, increase organic traffic, and drive long-term results for your online presence. Our Performance Marketing department also helps achieve these goals."
+        }
+      ]
+    },
+
+    "startProject": {
+      "h3": "Get in touch with us for SEO Services",
+      "label": "Start a Project"
+    }
+  }
 }
