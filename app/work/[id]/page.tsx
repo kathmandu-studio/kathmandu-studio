@@ -1,4 +1,9 @@
-import { Overview, StartProject, Thumbnails } from "components/work/view";
+import {
+  Carousel,
+  Overview,
+  StartProject,
+  Thumbnails,
+} from "components/work/view";
 import WhatWeDid from "components/work/view/WhatWeDid";
 import data from "data/work.json";
 import { notFound } from "next/navigation";
@@ -22,7 +27,13 @@ export default async function WorkDetail({ params }: WorkDetailProps) {
         <Overview data={item.overview} />
         <WhatWeDid data={item.whatWeDid} />
       </div>
-      <Thumbnails data={item.thumbnails} />
+      {item.thumbnails && <Thumbnails data={item.thumbnails} />}
+      {item.carousel && (
+        <>
+          <Carousel delay={1500} data={item.carousel[1]} />
+          <Carousel data={item.carousel[2]} />
+        </>
+      )}
       <StartProject data={item.startProject} />
     </div>
   );

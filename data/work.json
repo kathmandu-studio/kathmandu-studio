@@ -49,6 +49,7 @@
             "src": "/assets/images/jpg/work/1/thumbnail-4.jpg"
           }
         ],
+        "carousel": null,
         "startProject": {
           "h3": "Get in touch with us for Social Media Marketing Services",
           "label": "Start a Project"
@@ -92,6 +93,75 @@
             "src": "/assets/images/jpg/work/2/thumbnail-4.jpg"
           }
         ],
+        "carousel": null,
+        "startProject": {
+          "h3": "Get in touch with us for Social Media Marketing Services",
+          "label": "Start a Project"
+        }
+      },
+      {
+        "id": 3,
+        "src": "/assets/images/jpg/work/3/thumbnail.jpg",
+        "name": "IMEX",
+        "p": "Brand Assets & Social Media Creatives",
+        "banner": "/assets/images/jpg/work/banner.jpg",
+        "overview": {
+          "h3": "OVERVIEW",
+          "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sed cursus faucibus, neque lectus viverra nulla, sit amet bibendum sem lorem ac augue. Suspendisse id felis eget nulla sodales mattis. Vestibulum aliquet, sapien ut luctus cursus, ex justo cursus mauris, ac mattis felis justo id orci. Cras tincidunt, nisi in facilisis dapibus, risus massa fermentum lorem, non aliquam odio eros non leo. Integer fringilla gravida urna, vitae ullamcorper enim ullamcorper nec. Nam sed imperdiet nunc.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "whatWeDid": [
+          "Social Media Content",
+          "Brand Identity",
+          "2D Animation",
+          "3D Animation",
+          "Branded Merchandise",
+          "Packaging & Print",
+          "Web & App Design",
+          "Promos Video and TVC "
+        ],
+        "thumbnails": null,
+        "carousel": {
+          "1": [
+            {
+              "id": 1,
+              "src": "/assets/images/jpg/work/3/carousel-1-image-1.jpg"
+            },
+            {
+              "id": 2,
+              "src": "/assets/images/jpg/work/3/carousel-1-image-2.jpg"
+            },
+            {
+              "id": 3,
+              "src": "/assets/images/jpg/work/3/carousel-1-image-3.jpg"
+            },
+            {
+              "id": 4,
+              "src": "/assets/images/jpg/work/3/carousel-1-image-4.jpg"
+            }
+          ],
+          "2": [
+            {
+              "id": 7,
+              "src": "/assets/images/jpg/work/3/carousel-2-image-1.jpg"
+            },
+            {
+              "id": 8,
+              "src": "/assets/images/jpg/work/3/carousel-2-image-2.jpg"
+            },
+            {
+              "id": 9,
+              "src": "/assets/images/jpg/work/3/carousel-2-image-3.jpg"
+            },
+            {
+              "id": 10,
+              "src": "/assets/images/jpg/work/3/carousel-2-image-4.jpg"
+            },
+            {
+              "id": 11,
+              "src": "/assets/images/jpg/work/3/carousel-2-image-5.jpg"
+            }
+          ]
+        },
         "startProject": {
           "h3": "Get in touch with us for Social Media Marketing Services",
           "label": "Start a Project"

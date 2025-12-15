@@ -43,7 +43,7 @@ export default function ImageContainer({
           >
             <Image
               src={data.src}
-              alt={data.p ?? "image"}
+              alt={data.p ?? "thumbnail-image"}
               fill
               className="object-cover max-h-[600px] transition-transform duration-200 group-hover:scale-105"
             />
@@ -60,7 +60,7 @@ export default function ImageContainer({
           >
             <Image
               src={data.src}
-              alt={data.p ?? "image"}
+              alt={data.p ?? "thumbnail-image"}
               width={200}
               height={180}
               className="h-[180px] w-full sm:h-full object-cover transition-transform duration-200 group-hover:scale-105"
