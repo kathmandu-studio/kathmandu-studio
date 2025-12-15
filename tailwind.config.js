@@ -11,6 +11,7 @@ module.exports = {
       colors: {
         primary: "var(--color-primary)",
         secondary: "var(--color-secondary)",
+        backgroundGray: "var(--color-gray)",
       },
       // maxWidth: {
       //   container: "var(--width-container)",

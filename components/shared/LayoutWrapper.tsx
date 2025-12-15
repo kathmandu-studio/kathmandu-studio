@@ -5,6 +5,7 @@ import { Navbar, Footer, Banner } from "components/shared/molecules";
 import work from "data/work.json";
 import services from "data/services.json";
 import { toCamelCaseFromUrlExtraction } from "utils/misc";
+import Navigation from "./molecules/Navigation";
 
 interface LayoutWrapperProps {
   children: React.ReactNode;
@@ -15,7 +16,19 @@ export default function LayoutWrapper({ children }: LayoutWrapperProps) {
   const hideLayout = pathname === "/start-a-project";
   const segments = pathname.split("/").filter(Boolean);
   const mainRoute = segments[0];
-  const nestedSegment = segments[1];
+  const nestedSegment = Number(segments[1]);
+
+  const navigation = {
+    length: 0,
+    previous: {
+      href: `/${mainRoute}/${nestedSegment - 1}`,
+      name: "",
+    },
+    next: {
+      href: `/${mainRoute}/${nestedSegment + 1}`,
+      name: "",
+    },
+  };
 
   const data = {
     ...work,
@@ -31,11 +44,19 @@ export default function LayoutWrapper({ children }: LayoutWrapperProps) {
     banner = (data as any)[extractedPathEndPoint]?.banner;
   }
 
-  if (mainRoute === "work" && nestedSegment && !isNaN(Number(nestedSegment))) {
+  if (mainRoute === "work" && nestedSegment && !isNaN(nestedSegment)) {
     const workList = data.work.list;
-    const item = workList.find((w) => String(w.id) === nestedSegment);
-    if (item?.banner) {
-      banner = { src: item.banner, alt: item.p };
+
+    navigation.length = workList.length;
+    navigation.previous.name = workList[nestedSegment - 2]?.name ?? "";
+    navigation.next.name = workList[nestedSegment]?.name ?? "";
+
+    if (workList) {
+      const item = workList.find((w) => w.id === nestedSegment);
+
+      if (item?.banner) {
+        banner = { src: item.banner, alt: item.p };
+      }
     }
   }
 
@@ -57,6 +78,17 @@ export default function LayoutWrapper({ children }: LayoutWrapperProps) {
         >
           {children}
         </div>
+        {mainRoute === "work" && nestedSegment && (
+          <Navigation
+            previous={{
+              href: navigation.previous.href,
+              name: navigation.previous.name,
+            }}
+            next={{ href: navigation.next.href, name: navigation.next.name }}
+            isFirstNavigation={nestedSegment === 1}
+            isLastNavigation={nestedSegment === navigation.length}
+          />
+        )}
       </main>
       {!hideLayout && <Footer />}
     </>

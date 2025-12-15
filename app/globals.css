@@ -8,6 +8,7 @@
     /* Colors */
     --color-primary: #000000;
     --color-secondary: #fcfcfc;
+    --color-gray: #e2e2e2;
 
     /* Border Radius */
     --radius-sm: 4px;
@@ -118,6 +119,9 @@
   }
   small {
     font-size: var(--font-size-small);
+  }
+  a {
+    cursor: pointer;
   }
 }
 
