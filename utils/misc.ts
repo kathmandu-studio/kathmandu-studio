@@ -17,10 +17,6 @@ export function toCamelCaseFromUrlExtraction(url: string) {
     .join("");
 }
 
-export const setPageTitle = (title: string) => {
-  document.title = `${title} | Kathmandu Studio`;
-};
-
 /**
  * Hook to detect if the screen width is less than a given breakpoint (default 640px)
  */

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 interface INavigation {
   href: string;
   name: string;
@@ -24,23 +26,23 @@ export default function Navigation({
           <div className="flex flex-col gap-4">
             <span className="font-semibold">PREVIOUS</span>
             {!isFirstNavigation && (
-              <a
+              <Link
                 href={previous.href}
                 className="hover:text-gray-400 transition underline w-max font-semibold cursor-pointer"
               >
                 {previous.name}
-              </a>
+              </Link>
             )}
           </div>
           <div className="flex flex-col gap-4">
             <span className="font-semibold">NEXT</span>
             {!isLastNavigation && (
-              <a
+              <Link
                 href={next.href}
                 className="hover:text-gray-400 transition underline w-max font-semibold cursor-pointer"
               >
                 {next.name}
-              </a>
+              </Link>
             )}
           </div>
         </div>
