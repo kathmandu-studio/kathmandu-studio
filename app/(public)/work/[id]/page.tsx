@@ -1,3 +1,5 @@
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import {
   Carousel,
   Overview,
@@ -5,11 +7,27 @@ import {
   Thumbnails,
   WhatWeDid,
 } from "components/pages/work/view";
-import { notFound } from "next/navigation";
+import { SITE } from "config/constants";
 import data from "data/work.json";
 
 interface WorkDetailProps {
   params: { id: string };
+}
+
+export async function generateMetadata({
+  params,
+}: WorkDetailProps): Promise<Metadata> {
+  const resolvedParams = await params;
+  const id = Number(resolvedParams.id);
+  const item = data.work.list.find((t) => t.id === id);
+
+  if (!item) {
+    notFound();
+  }
+
+  return {
+    title: `Work - ${item.name} | ${SITE.name}`,
+  };
 }
 
 export default async function WorkDetail({ params }: WorkDetailProps) {
@@ -18,7 +36,7 @@ export default async function WorkDetail({ params }: WorkDetailProps) {
   const item = data.work.list.find((t) => t.id === id);
 
   if (!item) {
-    return notFound();
+    notFound();
   }
 
   return (
@@ -27,13 +45,16 @@ export default async function WorkDetail({ params }: WorkDetailProps) {
         <Overview data={item.overview} />
         <WhatWeDid data={item.whatWeDid} />
       </div>
+
       {item.thumbnails && <Thumbnails data={item.thumbnails} />}
+
       {item.carousel && (
         <>
           <Carousel delay={1500} data={item.carousel[1]} />
           <Carousel data={item.carousel[2]} />
         </>
       )}
+
       <StartProject data={item.startProject} />
     </div>
   );
